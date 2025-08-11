@@ -1,0 +1,40 @@
+{
+
+  "id": "Yfg87cks",
+  "projectName": "Wayup",
+  "link": "https://www.wayup.io/",
+  "twitter": "https://x.com/wayupio",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "releases": [
+
+    {
+      "releaseNumber": 1,
+      "releaseName": "V1",
+      "description": "initial version of all scripts",
+      "scripts": [
+        {
+          "id": "dw033n",
+          "version": 1
+        }
+      ]
+    }
+  ],
+
+  "scripts": [
+    {
+      "id": "dw033n",
+      "name": "Offers",
+      "purpose": "SPEND",
+      "versions": [
+        {
+          "version": 1,
+          "plutusVersion": 2,
+          "fullScriptHash": "11a76f0fb801a29f591e9871576508d85b0b5f3c38774f65032f58fdadb94c41569d7bd5c72254f86e2e40f29ee7ca003194a32c7887ffda36",
+          "scriptHash": "",
+          "contractAddress": "addr1zxnk7racqx3f7kg7npc4weggmpdskheu8pm57egr9av0mtdef3q4d8tm6hrjy48cdchypu57ul9qqvv55vk83pllmgmqq57meg"
+        }
+      ]
+    }
+  ]
+}
