@@ -1,0 +1,12 @@
+/.idea/vcs.xml
+/.idea/workspace.xml
+/node_modules/.package-lock.json
+/node_modules/jsonschema/.editorconfig
+/node_modules/jsonschema/LICENSE
+/node_modules/jsonschema/README.md
+/node_modules/jsonschema/lib/attribute.js
+/node_modules/jsonschema/lib/helpers.js
+/node_modules/jsonschema/lib/index.d.ts
+/node_modules/jsonschema/lib/index.js
+/node_modules/jsonschema/lib/scan.js
+/node_modules/jsonschema/lib/validator.js

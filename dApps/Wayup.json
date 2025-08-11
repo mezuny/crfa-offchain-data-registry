@@ -6,8 +6,10 @@
   "twitter": "https://x.com/wayupio",
   "category": "MARKETPLACE",
   "subCategory": "NFT",
+  "description": {
+    "short": "A NFT Marketplace by ADA Anvil"
+  },
   "releases": [
-
     {
       "releaseNumber": 1,
       "releaseName": "V1",
