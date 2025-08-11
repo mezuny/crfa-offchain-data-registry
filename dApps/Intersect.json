@@ -1,0 +1,51 @@
+{
+  "id": "E6KCsl3P",
+  "projectName": "Smart contracts that are maintained by Intersect",
+  "link": "",
+  "twitter": "",
+  "category": "UNKNOWN",
+  "subCategory": "UNKNOWN",
+  "description": {
+    "short": ""
+  },
+  "features": [
+    ""
+  ],
+  "releases": [
+    {
+      "releaseNumber": 1,
+      "releaseName": "V1",
+      "description": "",
+      "scripts": [
+        {
+          "id": "m9zzPs",
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "openSource": false
+    }
+  ],
+  "audits": [],
+  "scripts": [
+    {
+      "id": "m9zzPs",
+      "name": "Intersect Treasury Smart Contract",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "contractLang": "PLUTARCH",
+      "versions": [
+        {
+          "version": 1,
+          "plutusVersion": 3,
+          "fullScriptHash": "118583857e4a12ffe1e6f641a1785a0f2f036c565cfbe6ff9db8e5a4698583857e4a12ffe1e6f641a1785a0f2f036c565cfbe6ff9db8e5a469",
+          "scriptHash": "8583857e4a12ffe1e6f641a1785a0f2f036c565cfbe6ff9db8e5a4698583857e4a12ffe1e6f641a1785a0f2f036c565cfbe6ff9db8e5a469",
+          "contractAddress": "addr1xxzc8pt7fgf0lc0x7eq6z7z6puhsxmzktna7dluahrj6g6v9swzhujsjlls7dajp59u95re0qdk9vh8mumlemw89535s4ecqxj"
+        }
+      ]
+    }
+  ]
+}
