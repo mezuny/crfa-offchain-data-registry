@@ -1,11 +1,11 @@
 {
     "id": "E6KCsl3G",
-    "projectName": "Smart contracts that are leveraged by multiple projects and shouldn't be credited to a specific one",
+    "projectName": "Generic",
     "link": "https://genericlink.com",
     "category": "UNKNOWN",
     "subCategory": "UNKNOWN",
     "description": {
-        "short": ""
+        "short": "Smart contracts that are leveraged by multiple projects and shouldn't be credited to a specific one"
     },
     "features": [
         ""
