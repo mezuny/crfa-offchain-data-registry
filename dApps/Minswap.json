@@ -407,6 +407,13 @@
                     "fullScriptHash": "11a65ca58a4e9c755fa830173d2a5caed458ac0c73f97db7faae2e7e3b52563c5410bff6a0d43ccebb7c37e1f69f5eb260552521adff33b9c2",
                     "scriptHash": "a65ca58a4e9c755fa830173d2a5caed458ac0c73f97db7faae2e7e3b52563c5410bff6a0d43ccebb7c37e1f69f5eb260552521adff33b9c2",
                     "contractAddress": "addr1zxn9efv2f6w82hagxqtn62ju4m293tqvw0uhmdl64ch8uw6j2c79gy9l76sdg0xwhd7r0c0kna0tycz4y5s6mlenh8pq6s3z70"
+                },
+                {
+                    "version": 4,
+                    "plutusVersion": 2,
+                    "fullScriptHash": "11c3e28c36c3447315ba5a56f33da6a6ddc1770a876a8d9f0cb3a97c4c25ec83dc286f28c8b38fe696afbee66f391cf4c25dd61ff58bb8cce0",
+                    "scriptHash": "c3e28c36c3447315ba5a56f33da6a6ddc1770a876a8d9f0cb3a97c4c25ec83dc286f28c8b38fe696afbee66f391cf4c25dd61ff58bb8cce0",
+                    "contractAddress": "addr1z8p79rpkcdz8x9d6tft0x0dx5mwuzac2sa4gm8cvkw5hcnp9ajpac2r09ryt8rlxj6hmaen08yw0fsja6c0ltzacensqfgtg5g"
                 }
             ]
         },
