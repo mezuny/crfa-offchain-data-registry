@@ -1,0 +1,22 @@
+{
+  "id": "00000HFI",
+  "projectName": "Axo",
+  "link": "https://www.axo.trade",
+  "twitter": "https://twitter.com/axotrade",
+  "category": "DEFI",
+  "subCategory": "ORDERBOOK_DEX",
+  "description": {
+    "short": "Fair and programmable trading protocol for the Cardano blockchain."
+  },
+  "scripts": [
+    {
+      "id": "axQJ9AHk",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "765fb5aeefdcd6a598ee998091c05d37241d4e6b761bd2a5032c2934",
+      "fullScriptHash": "71765fb5aeefdcd6a598ee998091c05d37241d4e6b761bd2a5032c2934",
+      "plutusVersion": 2
+    }
+  ]
+}

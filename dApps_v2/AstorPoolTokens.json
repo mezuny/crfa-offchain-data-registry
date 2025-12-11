@@ -1,0 +1,39 @@
+{
+  "id": "HD14S3wh",
+  "projectName": "Astor Pool Tokens",
+  "link": "https://astorpool.net",
+  "twitter": "https://twitter.com/AstorPool",
+  "category": "COMMUNITY",
+  "description": {
+    "short": "A Cardano stake pool token"
+  },
+  "scripts": [
+    {
+      "id": "cLet1HqL",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "7ad427bc37992916a7e5189dc046d3224fe0ab206521dad9acf5dfdf",
+      "fullScriptHash": "717ad427bc37992916a7e5189dc046d3224fe0ab206521dad9acf5dfdf",
+      "plutusVersion": 1
+    },
+    {
+      "id": "DZc4pSan",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "f20e79df1b81eaa46817aabe97823304ad6059b6586582ccefc49b7f",
+      "fullScriptHash": "71f20e79df1b81eaa46817aabe97823304ad6059b6586582ccefc49b7f",
+      "plutusVersion": 1
+    },
+    {
+      "id": "Jr80wU2G",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "3f997b68b1f491c7c2f10af4e2bf9566c5d25bd61df0343065d4fe1c",
+      "fullScriptHash": "713f997b68b1f491c7c2f10af4e2bf9566c5d25bd61df0343065d4fe1c",
+      "plutusVersion": 1
+    }
+  ]
+}

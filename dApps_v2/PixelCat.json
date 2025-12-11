@@ -1,0 +1,22 @@
+{
+  "id": "0eS4b23s",
+  "projectName": "PixelCat",
+  "link": "https://www.pixelcatnft.com",
+  "twitter": "https://twitter.com/pixelcatcnft",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "description": {
+    "short": "A cat-themed play and earn based Cardano NFT collection and marketplace on the Cardano blockchain"
+  },
+  "scripts": [
+    {
+      "id": "n8zMRPZQ",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "9d67eff9976037be8ebabc166a4a4a3901f1d6c79786b3fd8e4e1c10",
+      "fullScriptHash": "719d67eff9976037be8ebabc166a4a4a3901f1d6c79786b3fd8e4e1c10",
+      "plutusVersion": 1
+    }
+  ]
+}

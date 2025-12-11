@@ -1,0 +1,190 @@
+{
+  "mappings": {
+    "Minswap": {
+      "projectName": "Minswap",
+      "category": "DEFI",
+      "subCategory": "AMM_DEX",
+      "link": "",
+      "twitter": "",
+      "description": {
+        "short": ""
+      },
+      "audits": [],
+      "releases": [],
+      "scriptMappings": {
+        "names": {
+          "MinswapCPPState": "MinswapCPPState",
+          "MinswapDJEDUSDCStableState": "MinswapDJEDUSDCStableState",
+          "MinswapDJEDUSDMStableState": "MinswapDJEDUSDMStableState",
+          "MinswapDJEDiUSDStableState": "MinswapDJEDiUSDStableState",
+          "MinswapUSDAUSDMStableState": "MinswapUSDAUSDMStableState",
+          "MinswapV2CPPState": "MinswapV2CPPState",
+          "MinswapiUSDUSDCStableState": "MinswapiUSDUSDCStableState",
+          "MinswapiUSDUSDMStableState": "MinswapiUSDUSDMStableState"
+        },
+        "purposes": {
+          "MinswapCPPState": "SPEND",
+          "MinswapDJEDUSDCStableState": "SPEND",
+          "MinswapDJEDUSDMStableState": "SPEND",
+          "MinswapDJEDiUSDStableState": "SPEND",
+          "MinswapUSDAUSDMStableState": "SPEND",
+          "MinswapV2CPPState": "SPEND",
+          "MinswapiUSDUSDCStableState": "SPEND",
+          "MinswapiUSDUSDMStableState": "SPEND"
+        }
+      }
+    },
+    "MuesliSwap": {
+      "projectName": "MuesliSwap",
+      "category": "DEFI",
+      "subCategory": "AMM_DEX",
+      "link": "",
+      "twitter": "",
+      "description": {
+        "short": ""
+      },
+      "audits": [],
+      "releases": [],
+      "scriptMappings": {
+        "names": {
+          "MuesliSwapCPPState": "MuesliSwapCPPState"
+        },
+        "purposes": {
+          "MuesliSwapCPPState": "SPEND"
+        }
+      }
+    },
+    "Spectrum": {
+      "projectName": "Spectrum",
+      "category": "DEFI",
+      "subCategory": "AMM_DEX",
+      "link": "",
+      "twitter": "",
+      "description": {
+        "short": ""
+      },
+      "audits": [],
+      "releases": [],
+      "scriptMappings": {
+        "names": {
+          "SpectrumCPPState": "SpectrumCPPState"
+        },
+        "purposes": {
+          "SpectrumCPPState": "SPEND"
+        }
+      }
+    },
+    "Splash": {
+      "projectName": "Splash",
+      "category": "DEFI",
+      "subCategory": "AMM_DEX",
+      "link": "",
+      "twitter": "",
+      "description": {
+        "short": ""
+      },
+      "audits": [],
+      "releases": [],
+      "scriptMappings": {
+        "names": {
+          "SplashCPPBidirState": "SplashCPPBidirState",
+          "SplashCPPState": "SplashCPPState",
+          "SplashSSPState": "SplashSSPState"
+        },
+        "purposes": {
+          "SplashCPPBidirState": "SPEND",
+          "SplashCPPState": "SPEND",
+          "SplashSSPState": "SPEND"
+        }
+      }
+    },
+    "SundaeSwap": {
+      "projectName": "SundaeSwap",
+      "category": "DEFI",
+      "subCategory": "AMM_DEX",
+      "link": "",
+      "twitter": "",
+      "description": {
+        "short": ""
+      },
+      "audits": [],
+      "releases": [],
+      "scriptMappings": {
+        "names": {
+          "SundaeSwapCPPState": "SundaeSwapCPPState",
+          "SundaeSwapV3CPPState": "SundaeSwapV3CPPState"
+        },
+        "purposes": {
+          "SundaeSwapCPPState": "SPEND",
+          "SundaeSwapV3CPPState": "SPEND"
+        }
+      }
+    },
+    "VyFinance": {
+      "projectName": "VyFinance",
+      "category": "DEFI",
+      "subCategory": "AMM_DEX",
+      "link": "",
+      "twitter": "",
+      "description": {
+        "short": ""
+      },
+      "audits": [],
+      "releases": [],
+      "scriptMappings": {
+        "names": {
+          "VyFiCPPState": "VyFiCPPState"
+        },
+        "purposes": {
+          "VyFiCPPState": "SPEND"
+        }
+      }
+    },
+    "Wingriders": {
+      "projectName": "Wingriders",
+      "category": "DEFI",
+      "subCategory": "AMM_DEX",
+      "link": "",
+      "twitter": "",
+      "description": {
+        "short": ""
+      },
+      "audits": [],
+      "releases": [],
+      "scriptMappings": {
+        "names": {
+          "WingRidersCPPState": "WingRidersCPPState",
+          "WingRidersSSPState": "WingRidersSSPState",
+          "WingRidersV2CPPState": "WingRidersV2CPPState",
+          "WingRidersV2SSPState": "WingRidersV2SSPState"
+        },
+        "purposes": {
+          "WingRidersCPPState": "SPEND",
+          "WingRidersSSPState": "SPEND",
+          "WingRidersV2CPPState": "SPEND",
+          "WingRidersV2SSPState": "SPEND"
+        }
+      }
+    },
+    "GeniusYield": {
+      "projectName": "GeniusYield",
+      "category": "DEFI",
+      "subCategory": "AMM_DEX",
+      "link": "",
+      "twitter": "",
+      "description": {
+        "short": ""
+      },
+      "audits": [],
+      "releases": [],
+      "scriptMappings": {
+        "names": {
+          "GeniusYieldOrderBook": "GeniusYieldOrderBook"
+        },
+        "purposes": {
+          "GeniusYieldOrderBook": "SPEND"
+        }
+      }
+    }
+  }
+}

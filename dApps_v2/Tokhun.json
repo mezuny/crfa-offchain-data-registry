@@ -1,0 +1,22 @@
+{
+  "id": "002juQyH",
+  "projectName": "Tokhun",
+  "link": "https://tokhun.io",
+  "twitter": "https://twitter.com/Tokhun_io",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "description": {
+    "short": "An NFT Marketplace built on the Cardano blockchain, established in March 2021"
+  },
+  "scripts": [
+    {
+      "id": "JkjnKlQI",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "3f44f789aeeabb8059f56cc358f94e2559f81233df464624d865ee3a",
+      "fullScriptHash": "713f44f789aeeabb8059f56cc358f94e2559f81233df464624d865ee3a",
+      "plutusVersion": 1
+    }
+  ]
+}

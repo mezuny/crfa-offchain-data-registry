@@ -1,0 +1,22 @@
+{
+  "id": "2fPk0ZXf",
+  "projectName": "PIGY Oracle",
+  "link": "https://oracle.pigytoken.com",
+  "twitter": "https://twitter.com/pigytoken",
+  "category": "DEFI",
+  "subCategory": "ORACLE",
+  "description": {
+    "short": "A community-driven, minimal-cost oracle to benefit PIGY SPOs"
+  },
+  "scripts": [
+    {
+      "id": "8gUPZDsQ",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "e265b741cd9ac2c4d695402f7bb4cb49cbe0d9e33eec9a26dbfa9e59",
+      "fullScriptHash": "71e265b741cd9ac2c4d695402f7bb4cb49cbe0d9e33eec9a26dbfa9e59",
+      "plutusVersion": 1
+    }
+  ]
+}

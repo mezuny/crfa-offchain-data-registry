@@ -1,0 +1,22 @@
+{
+  "id": "B9I0vmor",
+  "projectName": "GOAT Tribe",
+  "link": "https://goattribe.io",
+  "twitter": "https://twitter.com/adaGOATS",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "description": {
+    "short": "The GOAT Tribe is an NFT Project. A place to connect, and bond with other GOATs."
+  },
+  "scripts": [
+    {
+      "id": "65T9kQDI",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "da143fe6fa6092a3956562f6fa1e20db221597e10be209760ad91dff",
+      "fullScriptHash": "71da143fe6fa6092a3956562f6fa1e20db221597e10be209760ad91dff",
+      "plutusVersion": 1
+    }
+  ]
+}

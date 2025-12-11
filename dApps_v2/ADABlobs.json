@@ -1,0 +1,22 @@
+{
+  "id": "GHz8DxZM",
+  "projectName": "ADA Blobs",
+  "link": "https://adablobs.io",
+  "twitter": "https://twitter.com/TheAvatarNick",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "description": {
+    "short": "ADA Blobs is a collection of 300 Blob NFTs and is the first auction NFT project on the Cardano Blockchain"
+  },
+  "scripts": [
+    {
+      "id": "yUadwbKq",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "c1c0f2fbbc40ec587e6a3fd05a43f02e3e23f9debb30d4a62e49e7bb",
+      "fullScriptHash": "71c1c0f2fbbc40ec587e6a3fd05a43f02e3e23f9debb30d4a62e49e7bb",
+      "plutusVersion": 1
+    }
+  ]
+}

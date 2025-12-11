@@ -1,0 +1,76 @@
+{
+  "id": "XuQY5Wfh",
+  "projectName": "adadomains",
+  "link": "https://www.adadomains.io",
+  "twitter": "https://twitter.com/adadomains_io",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "description": {
+    "short": "Own a domain on the Cardano blockchain"
+  },
+  "scripts": [
+    {
+      "id": "EyO9Hy18",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "f68a10da563e5fc7c4c61ecbc0c9513330ff94eefbc50ce35390a95f",
+      "fullScriptHash": "71f68a10da563e5fc7c4c61ecbc0c9513330ff94eefbc50ce35390a95f",
+      "plutusVersion": 2
+    },
+    {
+      "id": "9bUHE0hH",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "1ec33c46461b79c43f7ffc5fad0c73c98103203515cfbd15539519f5",
+      "fullScriptHash": "711ec33c46461b79c43f7ffc5fad0c73c98103203515cfbd15539519f5",
+      "plutusVersion": 2
+    },
+    {
+      "id": "jAKWUWuB",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "90a9eac152ab6e5048af3f0ed7ed0602918b6e25b8c9d1bb7a7f2a59",
+      "fullScriptHash": "7190a9eac152ab6e5048af3f0ed7ed0602918b6e25b8c9d1bb7a7f2a59",
+      "plutusVersion": 2
+    },
+    {
+      "id": "8Z4TxiJL",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "1b6f580a069784875bfb7c9ada7d45201fdf44268b65f38a53305bd6",
+      "fullScriptHash": "711b6f580a069784875bfb7c9ada7d45201fdf44268b65f38a53305bd6",
+      "plutusVersion": 2
+    },
+    {
+      "id": "ljDYTj7i",
+      "name": "AdadomainsConfig",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "98df2df723eac9cef42beca19e6e6e1aec9c71908c76c774ff1e83d1",
+      "fullScriptHash": "7198df2df723eac9cef42beca19e6e6e1aec9c71908c76c774ff1e83d1",
+      "plutusVersion": 2
+    },
+    {
+      "id": "Gl1AycT3",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "fc411f546d01e88a822200243769bbc1e1fbdde8fa0f6c5179934edb",
+      "fullScriptHash": "71fc411f546d01e88a822200243769bbc1e1fbdde8fa0f6c5179934edb",
+      "plutusVersion": 2
+    },
+    {
+      "id": "MyEMzJc5",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "49933b20c73dae19926b4ee0d7330f2c167c53414fa0c8308e2768d6",
+      "fullScriptHash": "7149933b20c73dae19926b4ee0d7330f2c167c53414fa0c8308e2768d6",
+      "plutusVersion": 2
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "0004xa6C",
+  "projectName": "Lenfi",
+  "link": "https://lenfi.io",
+  "twitter": "https://twitter.com/LenfiOfficial",
+  "category": "DEFI",
+  "subCategory": "LENDING_BORROWING",
+  "description": {
+    "short": "Fully decentralized lending and borrowing protocol backed with NFT’s and built on Cardano blockchain. Borrowers and lenders lock their loans and deposits into NFT-Bonds redeemable by anyone who provides the underlying NFT and fulfills the loan conditions"
+  },
+  "scripts": [
+    {
+      "id": "yBeFAHzP",
+      "name": "Old AADA token burn",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "c0c671fba483641a71bb92d3a8b7c52c90bf1c01e2b83116ad7d4536",
+      "fullScriptHash": "71c0c671fba483641a71bb92d3a8b7c52c90bf1c01e2b83116ad7d4536",
+      "plutusVersion": 1
+    },
+    {
+      "id": "NmxwxWPR",
+      "name": "Burn validator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "4c3231f64e9140a17977e6e634b394fd59b7dff0d5be6a53b8e6434b",
+      "fullScriptHash": "714c3231f64e9140a17977e6e634b394fd59b7dff0d5be6a53b8e6434b",
+      "plutusVersion": 1
+    },
+    {
+      "id": "AY5Euq96",
+      "name": "Borrower NFT-Bond token",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "21ca2902ad0406bc2ce361ad91157b3542544d86d4e3d3e3c43f1763",
+      "fullScriptHash": "7121ca2902ad0406bc2ce361ad91157b3542544d86d4e3d3e3c43f1763",
+      "plutusVersion": 1
+    },
+    {
+      "id": "KtoHqHKY",
+      "name": "Lender NFT-Bond token",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "42f0e3706d2e0a0761db8da21387aadabe609a7cf328d249ebc2eeff",
+      "fullScriptHash": "7142f0e3706d2e0a0761db8da21387aadabe609a7cf328d249ebc2eeff",
+      "plutusVersion": 1
+    },
+    {
+      "id": "7zWuidd0",
+      "name": "AADA staking",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "1999507bc0ee90e1c376e608496e624e8645b3d558e244c2cd825a38",
+      "fullScriptHash": "711999507bc0ee90e1c376e608496e624e8645b3d558e244c2cd825a38",
+      "plutusVersion": 1
+    },
+    {
+      "id": "Aa3vJfjx",
+      "name": "DEPOSIT to/WITHDRAW from pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "21e45442265dad540322fe30cd4bdbe1322652dd5b95a8a5f6159d46",
+      "fullScriptHash": "3132e8c0ae314ef4be452c16a999867f66d1a1791fc972cb2f7c74e38d21e45442265dad540322fe30cd4bdbe1322652dd5b95a8a5f6159d46",
+      "plutusVersion": 2
+    },
+    {
+      "id": "bbtSLtyu",
+      "name": "DEPOSIT to/WITHDRAW from pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "7876ebac44945a88855442692b86400776e0a2987c5f54a19b457d86",
+      "fullScriptHash": "3132e8c0ae314ef4be452c16a999867f66d1a1791fc972cb2f7c74e38d7876ebac44945a88855442692b86400776e0a2987c5f54a19b457d86",
+      "plutusVersion": 2
+    },
+    {
+      "id": "A8qAwzq4",
+      "name": "DEPOSIT to/WITHDRAW from pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "207c537c23e0179b21e5319f458bd669ea05a3ed17c25ca418260820",
+      "fullScriptHash": "3132e8c0ae314ef4be452c16a999867f66d1a1791fc972cb2f7c74e38d207c537c23e0179b21e5319f458bd669ea05a3ed17c25ca418260820",
+      "plutusVersion": 2
+    },
+    {
+      "id": "kbof17x9",
+      "name": "DEPOSIT to/WITHDRAW from pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "95495b1658f70e47f27160411e2de745cf2d57b82755286eb1ca0ba8",
+      "fullScriptHash": "3132e8c0ae314ef4be452c16a999867f66d1a1791fc972cb2f7c74e38d95495b1658f70e47f27160411e2de745cf2d57b82755286eb1ca0ba8",
+      "plutusVersion": 2
+    },
+    {
+      "id": "8pXib0jd",
+      "name": "DEPOSIT to/WITHDRAW from pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "1c492d6bc445ddcb9ab75ad9c921947a86633682b951f187e11aff40",
+      "fullScriptHash": "3132e8c0ae314ef4be452c16a999867f66d1a1791fc972cb2f7c74e38d1c492d6bc445ddcb9ab75ad9c921947a86633682b951f187e11aff40",
+      "plutusVersion": 2
+    },
+    {
+      "id": "BIUVE7sG",
+      "name": "DEPOSIT to/WITHDRAW from pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "eac4289dae00803315404d8923e0955dace5a26e8ac638b641ce6286",
+      "fullScriptHash": "3132e8c0ae314ef4be452c16a999867f66d1a1791fc972cb2f7c74e38deac4289dae00803315404d8923e0955dace5a26e8ac638b641ce6286",
+      "plutusVersion": 2
+    },
+    {
+      "id": "3CftJILR",
+      "name": "DEPOSIT to/WITHDRAW from pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "0a43740237b12ebd028baaf90290b1379315e3d4258f91b532335ab7",
+      "fullScriptHash": "3132e8c0ae314ef4be452c16a999867f66d1a1791fc972cb2f7c74e38d0a43740237b12ebd028baaf90290b1379315e3d4258f91b532335ab7",
+      "plutusVersion": 2
+    },
+    {
+      "id": "RubKVxMe",
+      "name": "DEPOSIT to/WITHDRAW from pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "5966ed96c890332804cd554ad4b17913efee303a031bd395d04dff78",
+      "fullScriptHash": "3132e8c0ae314ef4be452c16a999867f66d1a1791fc972cb2f7c74e38d5966ed96c890332804cd554ad4b17913efee303a031bd395d04dff78",
+      "plutusVersion": 2
+    },
+    {
+      "id": "C5Zubv8m",
+      "name": "REPAID to pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "26b90fe72e3c3b3f5d3f910bdeec9f01e0e2b55ead26d844b513c3f3",
+      "fullScriptHash": "318021830afedd85fda1253da2be75b66c0e65c482148eb8ca690903cb26b90fe72e3c3b3f5d3f910bdeec9f01e0e2b55ead26d844b513c3f3",
+      "plutusVersion": 2
+    },
+    {
+      "id": "p6UHbZgT",
+      "name": "REPAID to pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "a3aebcff0afd040f9d5dc8675c309733ee9785713ebbf0dacb0dd408",
+      "fullScriptHash": "318021830afedd85fda1253da2be75b66c0e65c482148eb8ca690903cba3aebcff0afd040f9d5dc8675c309733ee9785713ebbf0dacb0dd408",
+      "plutusVersion": 2
+    },
+    {
+      "id": "bbtSLtyu",
+      "name": "REPAID to pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "7876ebac44945a88855442692b86400776e0a2987c5f54a19b457d86",
+      "fullScriptHash": "318021830afedd85fda1253da2be75b66c0e65c482148eb8ca690903cb7876ebac44945a88855442692b86400776e0a2987c5f54a19b457d86",
+      "plutusVersion": 2
+    },
+    {
+      "id": "kbof17x9",
+      "name": "REPAID to pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "95495b1658f70e47f27160411e2de745cf2d57b82755286eb1ca0ba8",
+      "fullScriptHash": "318021830afedd85fda1253da2be75b66c0e65c482148eb8ca690903cb95495b1658f70e47f27160411e2de745cf2d57b82755286eb1ca0ba8",
+      "plutusVersion": 2
+    },
+    {
+      "id": "A8qAwzq4",
+      "name": "REPAID to pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "207c537c23e0179b21e5319f458bd669ea05a3ed17c25ca418260820",
+      "fullScriptHash": "318021830afedd85fda1253da2be75b66c0e65c482148eb8ca690903cb207c537c23e0179b21e5319f458bd669ea05a3ed17c25ca418260820",
+      "plutusVersion": 2
+    },
+    {
+      "id": "6lAaiBos",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "15a7772335deb8349165860a94a10b9f0a6ee0ac850c43294a4f1428",
+      "fullScriptHash": "7115a7772335deb8349165860a94a10b9f0a6ee0ac850c43294a4f1428",
+      "plutusVersion": 2
+    },
+    {
+      "id": "e0INQVKf",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "8021830afedd85fda1253da2be75b66c0e65c482148eb8ca690903cb",
+      "fullScriptHash": "718021830afedd85fda1253da2be75b66c0e65c482148eb8ca690903cb",
+      "plutusVersion": 2
+    },
+    {
+      "id": "ByYXAWNA",
+      "name": "CREATED new pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "ecf0762dfc1c15f918937b151197b3f955e390cff20f6e78ef0be6c9",
+      "fullScriptHash": "71ecf0762dfc1c15f918937b151197b3f955e390cff20f6e78ef0be6c9",
+      "plutusVersion": 2
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "019OnrPZ",
+  "projectName": "Fortuna",
+  "link": "https://aiken-lang.org",
+  "twitter": "https://twitter.com/aiken_eng",
+  "category": "COMMUNITY",
+  "subCategory": "MINING",
+  "description": {
+    "short": "Bitcoin style proof of work in smart contract form"
+  },
+  "scripts": [
+    {
+      "id": "CN0Jd90I",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "279f842c33eed9054b9e3c70cd6a3b32298259c24b78b895cb41d91a",
+      "fullScriptHash": "71279f842c33eed9054b9e3c70cd6a3b32298259c24b78b895cb41d91a",
+      "plutusVersion": 2
+    },
+    {
+      "id": "CN0Jd90I",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "279f842c33eed9054b9e3c70cd6a3b32298259c24b78b895cb41d91a",
+      "fullScriptHash": "71279f842c33eed9054b9e3c70cd6a3b32298259c24b78b895cb41d91a",
+      "plutusVersion": 2
+    }
+  ]
+}

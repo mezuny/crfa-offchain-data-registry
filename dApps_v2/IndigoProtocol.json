@@ -1,0 +1,238 @@
+{
+  "id": "oazEXCJa",
+  "projectName": "Indigo Protocol",
+  "link": "https://indigoprotocol.io",
+  "twitter": "https://twitter.com/Indigo_protocol",
+  "category": "DEFI",
+  "subCategory": "SYNTHETICS",
+  "description": {
+    "short": "An autonomous synthetics protocol for on-chain price exposure to real-world assets, built on Cardano blockchain"
+  },
+  "scripts": [
+    {
+      "id": "7Kzn4SqP",
+      "name": "Stability pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "de1585e046f16fdf79767300233c1affbe9d30340656acfde45e9142",
+      "fullScriptHash": "71de1585e046f16fdf79767300233c1affbe9d30340656acfde45e9142",
+      "plutusVersion": 2
+    },
+    {
+      "id": "54jg0PSz",
+      "name": "iUSD",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "1042576d1de963437bd4bb50dcd91459756e6812b7c06dd543a332c8",
+      "fullScriptHash": "711042576d1de963437bd4bb50dcd91459756e6812b7c06dd543a332c8",
+      "plutusVersion": 2
+    },
+    {
+      "id": "3iMjFpPL",
+      "name": "iBTC",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "d27ad3ed7b073018d429e57c2f8d1f52445aa241e280e6da149a91b4",
+      "fullScriptHash": "71d27ad3ed7b073018d429e57c2f8d1f52445aa241e280e6da149a91b4",
+      "plutusVersion": 2
+    },
+    {
+      "id": "DxwOteqD",
+      "name": "iETH",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "f350350cd40d0d8e8744f2c6cad54a0abc9d51f107f57fb95c181a3f",
+      "fullScriptHash": "71f350350cd40d0d8e8744f2c6cad54a0abc9d51f107f57fb95c181a3f",
+      "plutusVersion": 2
+    },
+    {
+      "id": "QVdUaoGd",
+      "name": "Indy staking",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "54e8d424816f5bbd423353009ff7c31ada2cbdefe651175014117f46",
+      "fullScriptHash": "7154e8d424816f5bbd423353009ff7c31ada2cbdefe651175014117f46",
+      "plutusVersion": 2
+    },
+    {
+      "id": "9RSzeOAB",
+      "name": "CDP",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "e4d2fb0b8d275852103fd75801e2c7dcf6ed3e276c74cabadbe5b8b6",
+      "fullScriptHash": "71e4d2fb0b8d275852103fd75801e2c7dcf6ed3e276c74cabadbe5b8b6",
+      "plutusVersion": 2
+    },
+    {
+      "id": "pLO7BtKg",
+      "name": "Stability pool account",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "a473cb8eb0b61c03b8696fceab1c1a89fa3ec834572850e7c2abe783",
+      "fullScriptHash": "71a473cb8eb0b61c03b8696fceab1c1a89fa3ec834572850e7c2abe783",
+      "plutusVersion": 2
+    },
+    {
+      "id": "B9xcp09i",
+      "name": "CDP creator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "ea5358d9fe82cc7ad8de0e76b4eabd851526408e51daa9d8bb4b137d",
+      "fullScriptHash": "71ea5358d9fe82cc7ad8de0e76b4eabd851526408e51daa9d8bb4b137d",
+      "plutusVersion": 2
+    },
+    {
+      "id": "yTFmfkFc",
+      "name": "Poll Manager",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "c1af46643698bc73f9857a0cc21ec949ce6919974b435d057dc448b8",
+      "fullScriptHash": "71c1af46643698bc73f9857a0cc21ec949ce6919974b435d057dc448b8",
+      "plutusVersion": 2
+    },
+    {
+      "id": "5laahDJ5",
+      "name": "Poll Manager upgrade",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "127912493e7b3c36a68aa4d8916fb9076b44faa5e15142486e317af4",
+      "fullScriptHash": "71127912493e7b3c36a68aa4d8916fb9076b44faa5e15142486e317af4",
+      "plutusVersion": 2
+    },
+    {
+      "id": "5EUs8UCS",
+      "name": "DEX LP token staking",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "10c36e9a15dc7843c47f57ad294d0a5187ab599961270ec9f5d2c993",
+      "fullScriptHash": "7110c36e9a15dc7843c47f57ad294d0a5187ab599961270ec9f5d2c993",
+      "plutusVersion": 2
+    },
+    {
+      "id": "AVZJUNZW",
+      "name": "Upgrade",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "21a8e689ae9628b84e1767e5871c8a2d30f430579bc14fd863ffe720",
+      "fullScriptHash": "7121a8e689ae9628b84e1767e5871c8a2d30f430579bc14fd863ffe720",
+      "plutusVersion": 2
+    },
+    {
+      "id": "EwE5ucn5",
+      "name": "iAssets minting policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b69880",
+      "fullScriptHash": "71f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b69880",
+      "plutusVersion": 2
+    },
+    {
+      "id": "Z8skC3HL",
+      "name": "CDP minting policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "708f5e6d597fc038d09a738d7be32edd6ea779d6feb32a53668d9050",
+      "fullScriptHash": "71708f5e6d597fc038d09a738d7be32edd6ea779d6feb32a53668d9050",
+      "plutusVersion": 2
+    },
+    {
+      "id": "LIs5PJMp",
+      "name": "SP Account minting policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "443c51db609bba8b2aa4c8af248bf797cbfcfa1e413c443296a50813",
+      "fullScriptHash": "71443c51db609bba8b2aa4c8af248bf797cbfcfa1e413c443296a50813",
+      "plutusVersion": 2
+    },
+    {
+      "id": "H0T5fFBJ",
+      "name": "Staking position minting policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "fd0d72fafee1d230a74c31ac503a192abd5b71888ae3f94128c1e634",
+      "fullScriptHash": "71fd0d72fafee1d230a74c31ac503a192abd5b71888ae3f94128c1e634",
+      "plutusVersion": 2
+    },
+    {
+      "id": "FxQzJdgf",
+      "name": "Poll Manager minting policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "f9b162ea9529e639a083595294006a833473883a75d6df1e4c22dd4f",
+      "fullScriptHash": "71f9b162ea9529e639a083595294006a833473883a75d6df1e4c22dd4f",
+      "plutusVersion": 2
+    },
+    {
+      "id": "1CuQbPZz",
+      "name": "Upgrade minting policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "ca72f111cc130ac311259181e0720516c044cee30704706a0299c2a8",
+      "fullScriptHash": "71ca72f111cc130ac311259181e0720516c044cee30704706a0299c2a8",
+      "plutusVersion": 2
+    },
+    {
+      "id": "2Hkjlq5k",
+      "name": "Fee Collector",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "0752abd65a0c983bfb1c9c3880cc632c099ba3adb2fe307afb4bbd9c",
+      "fullScriptHash": "710752abd65a0c983bfb1c9c3880cc632c099ba3adb2fe307afb4bbd9c",
+      "plutusVersion": 2
+    },
+    {
+      "id": "oe7TXjtf",
+      "name": "INDY staking",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "a23793f529179e09cefb3c37fc6ae081e0e99e99be5cdb55a00941a5",
+      "fullScriptHash": "71a23793f529179e09cefb3c37fc6ae081e0e99e99be5cdb55a00941a5",
+      "plutusVersion": 2
+    },
+    {
+      "id": "4E9U6N2F",
+      "name": "CDP",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "0d8aee2011f769502cdc07273f7e118722ebf9c585f3fee061986b7b",
+      "fullScriptHash": "710d8aee2011f769502cdc07273f7e118722ebf9c585f3fee061986b7b",
+      "plutusVersion": 2
+    },
+    {
+      "id": "jR4rCxpU",
+      "name": "Stability Pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "918765cae1147f5f2d914d45059f8b6497caa149ea94dd8da1f683ce",
+      "fullScriptHash": "71918765cae1147f5f2d914d45059f8b6497caa149ea94dd8da1f683ce",
+      "plutusVersion": 2
+    },
+    {
+      "id": "mC2UwOBV",
+      "name": "CDP Creator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "9a5c575d3bf99604bcb691d5f000b4b41866edb893b35a718be5dd01",
+      "fullScriptHash": "719a5c575d3bf99604bcb691d5f000b4b41866edb893b35a718be5dd01",
+      "plutusVersion": 2
+    },
+    {
+      "id": "FVQG892J",
+      "name": "Poll Manager",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "31aaab10e57345a2ed5c37ca32c57b2d9dc6219d23b51c85919febe2",
+      "fullScriptHash": "7131aaab10e57345a2ed5c37ca32c57b2d9dc6219d23b51c85919febe2",
+      "plutusVersion": 2
+    },
+    {
+      "id": "rp7Td29h",
+      "name": "Upgrade",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "ac64deeeab59a038158d4b2e22801253e7a9a87a313479acb7ac46ed",
+      "fullScriptHash": "71ac64deeeab59a038158d4b2e22801253e7a9a87a313479acb7ac46ed",
+      "plutusVersion": 2
+    }
+  ]
+}

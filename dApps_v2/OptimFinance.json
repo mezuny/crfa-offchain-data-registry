@@ -1,0 +1,85 @@
+{
+  "id": "Hk6KFMHJ",
+  "projectName": "Optim Finance",
+  "link": "https://www.optim.finance",
+  "twitter": "https://twitter.com/OptimFi",
+  "category": "DEFI",
+  "subCategory": "LENDING_BORROWING",
+  "description": {
+    "short": "Optim Finance creates and enables broad access to yield generation products such as Liquidity Bonds and Strategy Vaults"
+  },
+  "scripts": [
+    {
+      "id": "MAbbYQL7",
+      "name": "Optim EQT",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "4702f1ff21a54f728a59b3f5f0f351891c99015a2158b816c721ea72",
+      "fullScriptHash": "714702f1ff21a54f728a59b3f5f0f351891c99015a2158b816c721ea72",
+      "plutusVersion": 1
+    },
+    {
+      "id": "Wm5NFueD",
+      "name": "Optim Borrower Token",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "68fa031807f52dfea48be90d3ba788935386126b63463c84c31baac0",
+      "fullScriptHash": "7168fa031807f52dfea48be90d3ba788935386126b63463c84c31baac0",
+      "plutusVersion": 1
+    },
+    {
+      "id": "ThDbgg1t",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "5f1dd3192cbdaa2c1a91560a6147466efb18d33a5d6516b266ce6b6f",
+      "fullScriptHash": "715f1dd3192cbdaa2c1a91560a6147466efb18d33a5d6516b266ce6b6f",
+      "plutusVersion": 1
+    },
+    {
+      "id": "GALlbaZv",
+      "name": "Optim EQT",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "fa5c32107aeb17a87a8145776e02193611fae5a19719910ef5f7b83f",
+      "fullScriptHash": "71fa5c32107aeb17a87a8145776e02193611fae5a19719910ef5f7b83f",
+      "plutusVersion": 1
+    },
+    {
+      "id": "QDfiI7Vo",
+      "name": "Optim Bond Tokens",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "53fb41609e208f1cd3cae467c0b9abfc69f1a552bf9a90d51665a4d6",
+      "fullScriptHash": "7153fb41609e208f1cd3cae467c0b9abfc69f1a552bf9a90d51665a4d6",
+      "plutusVersion": 1
+    },
+    {
+      "id": "TsK2wVUe",
+      "name": "Optim EQT",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "5fb0abdfd1b8d096da6ffd7d3f5a8212a318447528f91a925e7fcd0f",
+      "fullScriptHash": "715fb0abdfd1b8d096da6ffd7d3f5a8212a318447528f91a925e7fcd0f",
+      "plutusVersion": 1
+    },
+    {
+      "id": "m9oBYk6E",
+      "name": "Optim EQT",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "9a3ed6b29dda73af0a4fb34c4134abf6621b415cdffc6102e9d9f4d0",
+      "fullScriptHash": "719a3ed6b29dda73af0a4fb34c4134abf6621b415cdffc6102e9d9f4d0",
+      "plutusVersion": 1
+    },
+    {
+      "id": "7mUun2mS",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "df813b840c7c44c5eef705ae2ecd789049b08041232804853a92cef2",
+      "fullScriptHash": "71df813b840c7c44c5eef705ae2ecd789049b08041232804853a92cef2",
+      "plutusVersion": 1
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "FhZMemZo",
+  "projectName": "Strike Finance",
+  "link": "https://app.strikefinance.org",
+  "twitter": "https://x.com/strikecardano",
+  "category": "DEFI",
+  "subCategory": "PERPETUALS",
+  "description": {
+    "short": "The Progressive Protocol that merges DEX with NFTfi"
+  },
+  "scripts": [
+    {
+      "id": "6PlMTQJY",
+      "name": "Perps LP Script",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "148c5cbcebfcf7f62d4555171b0e354273eb759929c8f410d6a1fe03",
+      "fullScriptHash": "11148c5cbcebfcf7f62d4555171b0e354273eb759929c8f410d6a1fe03",
+      "plutusVersion": 3
+    },
+    {
+      "id": "9NdisBtg",
+      "name": "Perps batcher script",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "1e0c1a445e185485277c044d77d2b1aaf80aa489a28a4c1e11ec8df0",
+      "fullScriptHash": "111e0c1a445e185485277c044d77d2b1aaf80aa489a28a4c1e11ec8df0",
+      "plutusVersion": 3
+    },
+    {
+      "id": "ed3r66Gz",
+      "name": "Unknown but associated with Strike",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "82222ed86cb5f226ba9be654ed1c8067f056f5b023e94cdef14f24d9",
+      "fullScriptHash": "7182222ed86cb5f226ba9be654ed1c8067f056f5b023e94cdef14f24d9",
+      "plutusVersion": 3
+    },
+    {
+      "id": "6upzuB9Q",
+      "name": "Unknown but associated with Strike",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "1627522f0a246dd5c681a54e242a8e0ddc0d82d916194ff84034bf32",
+      "fullScriptHash": "711627522f0a246dd5c681a54e242a8e0ddc0d82d916194ff84034bf32",
+      "plutusVersion": 3
+    }
+  ]
+}

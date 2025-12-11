@@ -1,0 +1,184 @@
+{
+  "id": "Cwj4w09H",
+  "projectName": "SundaeSwap",
+  "link": "https://www.sundaeswap.finance",
+  "twitter": "https://twitter.com/SundaeSwap",
+  "category": "DEFI",
+  "subCategory": "AMM_DEX",
+  "description": {
+    "short": "SundaeSwap is a native, scalable decentralized exchange, automated liquidity provision protocol and the first AMM Dex on Cardano blockchain"
+  },
+  "scripts": [
+    {
+      "id": "HJdnS3QG",
+      "name": "Mainnet load test",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "3776bcc4e4f8a06cf8e18d5507b782c4b539fcbab46ccc02d90a47b4",
+      "fullScriptHash": "713776bcc4e4f8a06cf8e18d5507b782c4b539fcbab46ccc02d90a47b4",
+      "plutusVersion": 1
+    },
+    {
+      "id": "CuqGdTXF",
+      "name": "Mainnet load test",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "295f0471e1c9e5865ac198d685c3eb6d982c640396e9f2e46d789208",
+      "fullScriptHash": "71295f0471e1c9e5865ac198d685c3eb6d982c640396e9f2e46d789208",
+      "plutusVersion": 1
+    },
+    {
+      "id": "w67pvElO",
+      "name": "Order Book",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "ba158766c1bae60e2117ee8987621441fac66a5e0fb9c7aca58cf20a",
+      "fullScriptHash": "71ba158766c1bae60e2117ee8987621441fac66a5e0fb9c7aca58cf20a",
+      "plutusVersion": 1
+    },
+    {
+      "id": "GBQ6pBM8",
+      "name": "Order Book",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "fa6a58bbe2d0ff05534431c8e2f0ef2cbdc1602a8456e4b13c8f3077",
+      "fullScriptHash": "71fa6a58bbe2d0ff05534431c8e2f0ef2cbdc1602a8456e4b13c8f3077",
+      "plutusVersion": 2
+    },
+    {
+      "id": "K1Mu1pwN",
+      "name": "Liquidity Pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "4020e7fc2de75a0729c3cc3af715b34d98381e0cdbcfa99c950bc3ac",
+      "fullScriptHash": "714020e7fc2de75a0729c3cc3af715b34d98381e0cdbcfa99c950bc3ac",
+      "plutusVersion": 1
+    },
+    {
+      "id": "7ziw4XZK",
+      "name": "Liquidity Pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "e0302560ced2fdcbfcb2602697df970cd0d6a38f94b32703f51c312b",
+      "fullScriptHash": "31e0302560ced2fdcbfcb2602697df970cd0d6a38f94b32703f51c312b4399813dad91bb78a5eb17c26ff50852bc75d3fa7b6e9ae87232ccc1",
+      "plutusVersion": 2
+    },
+    {
+      "id": "039wJZln",
+      "name": "Liquidity Provider Token",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "0029cb7c88c7567b63d1a512c0ed626aa169688ec980730c0473b913",
+      "fullScriptHash": "710029cb7c88c7567b63d1a512c0ed626aa169688ec980730c0473b913",
+      "plutusVersion": 1
+    },
+    {
+      "id": "GBQ6pBM8",
+      "name": "Order Spend",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "fa6a58bbe2d0ff05534431c8e2f0ef2cbdc1602a8456e4b13c8f3077",
+      "fullScriptHash": "71fa6a58bbe2d0ff05534431c8e2f0ef2cbdc1602a8456e4b13c8f3077",
+      "plutusVersion": 2
+    },
+    {
+      "id": "8FCMgHiT",
+      "name": "Pool Manage",
+      "purpose": "MANAGE",
+      "type": "PLUTUS",
+      "scriptHash": "e0fccbbfb75923bff6dac5f23805dcf6cecfaae8aa3a6d3e474ee670",
+      "fullScriptHash": "71e0fccbbfb75923bff6dac5f23805dcf6cecfaae8aa3a6d3e474ee670",
+      "plutusVersion": 2
+    },
+    {
+      "id": "7ziw4XZK",
+      "name": "Pool Spend",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "e0302560ced2fdcbfcb2602697df970cd0d6a38f94b32703f51c312b",
+      "fullScriptHash": "71e0302560ced2fdcbfcb2602697df970cd0d6a38f94b32703f51c312b",
+      "plutusVersion": 2
+    },
+    {
+      "id": "7ziw4XZK",
+      "name": "Pool Mint",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "e0302560ced2fdcbfcb2602697df970cd0d6a38f94b32703f51c312b",
+      "fullScriptHash": "71e0302560ced2fdcbfcb2602697df970cd0d6a38f94b32703f51c312b",
+      "plutusVersion": 2
+    },
+    {
+      "id": "7ziw4XZK",
+      "name": "Pool Stake",
+      "purpose": "STAKE",
+      "type": "PLUTUS",
+      "scriptHash": "e0302560ced2fdcbfcb2602697df970cd0d6a38f94b32703f51c312b",
+      "fullScriptHash": "71e0302560ced2fdcbfcb2602697df970cd0d6a38f94b32703f51c312b",
+      "plutusVersion": 2
+    },
+    {
+      "id": "YDsOo1sI",
+      "name": "Settings Spend",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "6d9d7acac59a4469ec52bb207106167c5cbfa689008ffa6ee92acc50",
+      "fullScriptHash": "716d9d7acac59a4469ec52bb207106167c5cbfa689008ffa6ee92acc50",
+      "plutusVersion": 2
+    },
+    {
+      "id": "YDsOo1sI",
+      "name": "Settings Mint",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "6d9d7acac59a4469ec52bb207106167c5cbfa689008ffa6ee92acc50",
+      "fullScriptHash": "716d9d7acac59a4469ec52bb207106167c5cbfa689008ffa6ee92acc50",
+      "plutusVersion": 2
+    },
+    {
+      "id": "m348WP43",
+      "name": "Stake Stake",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "99e5aacf401fed0eb0e2993d72d423947f42342e8f848353d03efe61",
+      "fullScriptHash": "7199e5aacf401fed0eb0e2993d72d423947f42342e8f848353d03efe61",
+      "plutusVersion": 2
+    },
+    {
+      "id": "4FCUdz4u",
+      "name": "SundaeSwap Factory",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "d42d10695c0c2f7b3f7e32a0559c80704da8cf320289e7831b99d825",
+      "fullScriptHash": "71d42d10695c0c2f7b3f7e32a0559c80704da8cf320289e7831b99d825",
+      "plutusVersion": 1
+    },
+    {
+      "id": "VLpOK3Iw",
+      "name": "Scooper Rewards",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "646ad13fb9e22d3b802049d85e95dc04edb6471eaa9237a932d38d49",
+      "fullScriptHash": "71646ad13fb9e22d3b802049d85e95dc04edb6471eaa9237a932d38d49",
+      "plutusVersion": 1
+    },
+    {
+      "id": "aU4qPfcG",
+      "name": "Farming",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "74db9c7a23605cacae4ee635a15af6e63c5a39915c481254eeb9758b",
+      "fullScriptHash": "7174db9c7a23605cacae4ee635a15af6e63c5a39915c481254eeb9758b",
+      "plutusVersion": 1
+    },
+    {
+      "id": "AdMimFGq",
+      "name": "Scooper License",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "e8a447d4e19016ca2aa74d20b4c4de87adb1f21dfb5493bf2d7281a6",
+      "fullScriptHash": "71e8a447d4e19016ca2aa74d20b4c4de87adb1f21dfb5493bf2d7281a6",
+      "plutusVersion": 1
+    }
+  ]
+}

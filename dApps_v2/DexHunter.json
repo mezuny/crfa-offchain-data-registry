@@ -1,0 +1,31 @@
+{
+  "id": "HHteTjLL",
+  "projectName": "DexHunter",
+  "link": "https://www.dexhunter.io",
+  "twitter": "https://twitter.com/DexHunterIO",
+  "category": "DEFI",
+  "subCategory": "DEX_AGGREGATOR",
+  "description": {
+    "short": "A dex aggregator with the best rates, real-time alerts and an easy to use interface"
+  },
+  "scripts": [
+    {
+      "id": "YaCJnEYX",
+      "name": "Stop Loss Contract",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "6ec4acc3fbbd570ada625f24902777cec5d7a349fa0f3c7ba87b0cff",
+      "fullScriptHash": "716ec4acc3fbbd570ada625f24902777cec5d7a349fa0f3c7ba87b0cff",
+      "plutusVersion": 2
+    },
+    {
+      "id": "lRF2iVSi",
+      "name": "DCA Execute",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "97f1732964905b3c71d12163968814ac5f3be77abc94830a84d32cf9",
+      "fullScriptHash": "7197f1732964905b3c71d12163968814ac5f3be77abc94830a84d32cf9",
+      "plutusVersion": 2
+    }
+  ]
+}

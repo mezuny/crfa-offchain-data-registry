@@ -1,0 +1,22 @@
+{
+  "id": "gAv0UzFI",
+  "projectName": "Yummi Universe",
+  "link": "https://stake.yummiuniverse.com",
+  "twitter": "https://twitter.com/YummiUniverse",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "description": {
+    "short": "An NFT collection that provides additional services such as staking"
+  },
+  "scripts": [
+    {
+      "id": "896rBo1C",
+      "name": "Staking",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "1a180134108ad693da6c53190c69d4ac1248753ccd4ef9fa7149a3f3",
+      "fullScriptHash": "711a180134108ad693da6c53190c69d4ac1248753ccd4ef9fa7149a3f3",
+      "plutusVersion": 1
+    }
+  ]
+}

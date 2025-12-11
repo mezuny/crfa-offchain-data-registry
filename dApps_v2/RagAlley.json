@@ -1,0 +1,40 @@
+{
+  "id": "0fHomp5x",
+  "projectName": "RagAlley",
+  "link": "https://cryptoraggies.io/ragalley",
+  "twitter": "https://twitter.com/cryptoraggies",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "description": {
+    "short": "Community marketplace enabling trading of NFTs for ADA and native tokens"
+  },
+  "scripts": [
+    {
+      "id": "HzTK3P0k",
+      "name": "RagAlley Listing",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "399ff24008da11f2e34369825ac8d660a846b0216865c080e366e5d0",
+      "fullScriptHash": "71399ff24008da11f2e34369825ac8d660a846b0216865c080e366e5d0",
+      "plutusVersion": 2
+    },
+    {
+      "id": "TfIFZAMq",
+      "name": "RagAlley Listing",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "5f045d874e0891c8d0423e869ecfa542a7043458613f7f6c0e522013",
+      "fullScriptHash": "715f045d874e0891c8d0423e869ecfa542a7043458613f7f6c0e522013",
+      "plutusVersion": 2
+    },
+    {
+      "id": "na2bAzWe",
+      "name": "RagAlley Auction",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "9ecdb2d51c1c0d124e1ae90ae2db61fa7f4d0d7491cc626bd2a469c1",
+      "fullScriptHash": "719ecdb2d51c1c0d124e1ae90ae2db61fa7f4d0d7491cc626bd2a469c1",
+      "plutusVersion": 2
+    }
+  ]
+}

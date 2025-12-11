@@ -1,0 +1,22 @@
+{
+  "id": "01LfOXte",
+  "projectName": "Seedelf",
+  "link": "https://github.com/logical-mechanism/Seedelf-Wallet",
+  "twitter": "https://x.com/LogicalMechnism",
+  "category": "SMART_WALLET",
+  "subCategory": "STEALTH_WALLET",
+  "description": {
+    "short": "A stealth wallet hides the receiver and spender of funds inside the contract."
+  },
+  "scripts": [
+    {
+      "id": "fOZSFds2",
+      "name": "This contract handles the minting of seedelf tokens.",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "84967d911e1a10d5b4a38441879f374a07f340945bcf9e7697485255",
+      "fullScriptHash": "7184967d911e1a10d5b4a38441879f374a07f340945bcf9e7697485255",
+      "plutusVersion": 3
+    }
+  ]
+}

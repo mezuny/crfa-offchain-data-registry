@@ -1,0 +1,58 @@
+{
+  "id": "0ZM1ATce",
+  "projectName": "Explosif",
+  "link": "https://cnft.io",
+  "twitter": "https://twitter.com/Explosif_io",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "description": {
+    "short": "Explosif (formely CNFT.IO) is a marketplace for Cardano Non-Fungible Tokens, launched in July 2021, the first marketplace on Cardano blockchain"
+  },
+  "scripts": [
+    {
+      "id": "ojDeyNq4",
+      "name": "Marketplace",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "a27b0572bf383c751e13597a600538e465bf9f4eb2df497b15101b27",
+      "fullScriptHash": "71a27b0572bf383c751e13597a600538e465bf9f4eb2df497b15101b27",
+      "plutusVersion": 1
+    },
+    {
+      "id": "MXwJHW6w",
+      "name": "Marketplace",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "483788748bd6129043bfc87fba9c0b5bc7e49b892efdc9dd783e3285",
+      "fullScriptHash": "71483788748bd6129043bfc87fba9c0b5bc7e49b892efdc9dd783e3285",
+      "plutusVersion": 1
+    },
+    {
+      "id": "1OFs8Nrx",
+      "name": "Direct sale",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "cb08fd2cf22dc45b23a7ff9c03468d94c93133606ba2abfdc833a76a",
+      "fullScriptHash": "71cb08fd2cf22dc45b23a7ff9c03468d94c93133606ba2abfdc833a76a",
+      "plutusVersion": 1
+    },
+    {
+      "id": "iXBjSp23",
+      "name": "Escrow",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "8ea445f8c91b71a539d276d4fa6002ca2df1d9edac3ceff987d8c7b4",
+      "fullScriptHash": "718ea445f8c91b71a539d276d4fa6002ca2df1d9edac3ceff987d8c7b4",
+      "plutusVersion": 1
+    },
+    {
+      "id": "llrWYJZj",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "9902279d9e834859a5fca5b9a334d070aa1ae686be2f49407aae5ea9",
+      "fullScriptHash": "719902279d9e834859a5fca5b9a334d070aa1ae686be2f49407aae5ea9",
+      "plutusVersion": 1
+    }
+  ]
+}

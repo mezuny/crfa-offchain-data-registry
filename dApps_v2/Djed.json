@@ -1,0 +1,74 @@
+{
+  "id": "DJbvrKWl",
+  "projectName": "Djed StableCoin",
+  "link": "https://djed.xyz",
+  "category": "STABLECOIN",
+  "description": {
+    "short": "Cardano's native overcollateralized stablecoin, backed by $ADA and uses $SHEN as a reserve coin"
+  },
+  "scripts": [
+    {
+      "id": "hq6JQvrS",
+      "name": "Djed Oracle NFT",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "8c6a730759f61b9089f0370cf986a2775d143cbf75c1f1fa6c932ab0",
+      "fullScriptHash": "718c6a730759f61b9089f0370cf986a2775d143cbf75c1f1fa6c932ab0",
+      "plutusVersion": 1
+    },
+    {
+      "id": "gsFE3edt",
+      "name": "Djed Order Ticket",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "8952dc463eb173e8f71c78229fe071c3eca694968c71f61ee3491ebd",
+      "fullScriptHash": "718952dc463eb173e8f71c78229fe071c3eca694968c71f61ee3491ebd",
+      "plutusVersion": 1
+    },
+    {
+      "id": "iZcJRNYN",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "8ec464861107b2839a970a9bd790ce708e9e72fb97b07551a7bfc947",
+      "fullScriptHash": "718ec464861107b2839a970a9bd790ce708e9e72fb97b07551a7bfc947",
+      "plutusVersion": 1
+    },
+    {
+      "id": "vMsUjXQW",
+      "name": "DjedOrderTicket",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "b7bf238c97a8f1b292b4e86416ae8496ecc2aac9b67c47360a0ef05e",
+      "fullScriptHash": "71b7bf238c97a8f1b292b4e86416ae8496ecc2aac9b67c47360a0ef05e",
+      "plutusVersion": 1
+    },
+    {
+      "id": "3zfXzUUZ",
+      "name": "DjedOrderTicket",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "0ccb659135a7098d40b5eaf97680c4d672ace8b13b750e95362f59ff",
+      "fullScriptHash": "710ccb659135a7098d40b5eaf97680c4d672ace8b13b750e95362f59ff",
+      "plutusVersion": 1
+    },
+    {
+      "id": "iEtr7DQh",
+      "name": "Djed/Shen",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61",
+      "fullScriptHash": "718db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61",
+      "plutusVersion": 1
+    },
+    {
+      "id": "SZYhXaVA",
+      "name": "DjedOracleNFT",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "5b8495ec9f44c040e83c8bb91fdddd22ee6f28e06712f23561645f4d",
+      "fullScriptHash": "715b8495ec9f44c040e83c8bb91fdddd22ee6f28e06712f23561645f4d",
+      "plutusVersion": 1
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "L074Vz5T",
+  "projectName": "SpaceBudz",
+  "link": "https://spacebudz.io",
+  "twitter": "https://twitter.com/spacebudzNFT",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "description": {
+    "short": "Spacebudz is one of the first NFT collections, creating the NFT metadata standard and the first fully smart contract based marketplace"
+  },
+  "scripts": [
+    {
+      "id": "raW91yPG",
+      "name": "Marketplace",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "aba3c2914116298a146af57d8156b1583f183fc05c0aa48ee95bec71",
+      "fullScriptHash": "71aba3c2914116298a146af57d8156b1583f183fc05c0aa48ee95bec71",
+      "plutusVersion": 1
+    },
+    {
+      "id": "1Kzat4k4",
+      "name": "Marketplace",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "0449932f9da0258d220c39f803ceb8e2c45fdc605e8dd42f35558b58",
+      "fullScriptHash": "710449932f9da0258d220c39f803ceb8e2c45fdc605e8dd42f35558b58",
+      "plutusVersion": 1
+    },
+    {
+      "id": "G3d9AOvr",
+      "name": "Identity-Token Validator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "336f0fc67c83fabe248bad4af737edd5611a8dbfd6d09fa923978e00",
+      "fullScriptHash": "71336f0fc67c83fabe248bad4af737edd5611a8dbfd6d09fa923978e00",
+      "plutusVersion": 1
+    },
+    {
+      "id": "qDwRyFd9",
+      "name": "Identity-Token Validator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "a745429480879c839f0131ccdf35b5cb0cd77f51d51bd5c8e617a21f",
+      "fullScriptHash": "71a745429480879c839f0131ccdf35b5cb0cd77f51d51bd5c8e617a21f",
+      "plutusVersion": 1
+    },
+    {
+      "id": "NeBgf7Cy",
+      "name": "Identity-Token Policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "4bbe1a11a1b8b1ffa7250e3cca799b74c10252792c575af906ae9b99",
+      "fullScriptHash": "714bbe1a11a1b8b1ffa7250e3cca799b74c10252792c575af906ae9b99",
+      "plutusVersion": 1
+    },
+    {
+      "id": "9L9hxnH8",
+      "name": "Identity-Token Policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "e47f849c5262b93b46789251519ec0a7921087b84b3782b871497e8f",
+      "fullScriptHash": "71e47f849c5262b93b46789251519ec0a7921087b84b3782b871497e8f",
+      "plutusVersion": 1
+    },
+    {
+      "id": "A0FUWCUI",
+      "name": "Gate Address",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "e69ef846b28607307badfeb7f756f23fab32743428e76a48e65bed96",
+      "fullScriptHash": "71e69ef846b28607307badfeb7f756f23fab32743428e76a48e65bed96",
+      "plutusVersion": 1
+    },
+    {
+      "id": "Ut7umcIs",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "62ef3f906b0a32726e5bb7edcb9f58308d58fa462bc9e022f74ce752",
+      "fullScriptHash": "7162ef3f906b0a32726e5bb7edcb9f58308d58fa462bc9e022f74ce752",
+      "plutusVersion": 2
+    },
+    {
+      "id": "3mlVlEOV",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "0c20befc4e3ff0d33bfb5235e19fcb2bc9291abf0002b9379fb29750",
+      "fullScriptHash": "710c20befc4e3ff0d33bfb5235e19fcb2bc9291abf0002b9379fb29750",
+      "plutusVersion": 2
+    },
+    {
+      "id": "LaNAoeWm",
+      "name": "Spacebudz Policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "4523c5e21d409b81c95b45b0aea275b8ea1406e6cafea5583b9f8a5f",
+      "fullScriptHash": "714523c5e21d409b81c95b45b0aea275b8ea1406e6cafea5583b9f8a5f",
+      "plutusVersion": 2
+    }
+  ]
+}

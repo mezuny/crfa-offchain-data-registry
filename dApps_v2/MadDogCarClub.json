@@ -1,0 +1,48 @@
+{
+  "id": "EOPy21m2",
+  "projectName": "Mad Dog Car Club",
+  "link": "http://maddogcarclub.io",
+  "twitter": "https://twitter.com/MadDogCarClub",
+  "category": "GAMING",
+  "description": {
+    "short": "An exclusive community destined for sustainability"
+  },
+  "scripts": [
+    {
+      "id": "FdaXx6Jz",
+      "name": "RaffleDetails",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "f8aaedb776e73868c3b516ca2c7af642da80d44f5b7461c38148a97b",
+      "fullScriptHash": "71f8aaedb776e73868c3b516ca2c7af642da80d44f5b7461c38148a97b",
+      "plutusVersion": 2
+    },
+    {
+      "id": "COtGMCFM",
+      "name": "RaffleCounter",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "ee4cba994058a6fe724cdc162f5d2aab2a4ca429e4abfcd12e696817",
+      "fullScriptHash": "71ee4cba994058a6fe724cdc162f5d2aab2a4ca429e4abfcd12e696817",
+      "plutusVersion": 2
+    },
+    {
+      "id": "L8plQyB6",
+      "name": "RaffleTicket",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "43b79379bce069ec0fe025bb0868bf56bce2db42026ad712f334e3ce",
+      "fullScriptHash": "7143b79379bce069ec0fe025bb0868bf56bce2db42026ad712f334e3ce",
+      "plutusVersion": 2
+    },
+    {
+      "id": "QYEfW4tC",
+      "name": "RafflePlaceholder",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "550b354af4bec45dbdd516ab32e494ae009acd46bd2e443506b4060a",
+      "fullScriptHash": "71550b354af4bec45dbdd516ab32e494ae009acd46bd2e443506b4060a",
+      "plutusVersion": 2
+    }
+  ]
+}

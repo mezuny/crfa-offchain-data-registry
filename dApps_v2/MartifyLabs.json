@@ -1,0 +1,22 @@
+{
+  "id": "JIcsYBIe",
+  "projectName": "Martify Labs",
+  "link": "https://martify.io",
+  "twitter": "https://twitter.com/MartifyLabs",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "description": {
+    "short": "A NFT Marketplace on the Cardano Blockchain"
+  },
+  "scripts": [
+    {
+      "id": "bUCluab8",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "78113df24a3e1b2a95f19f182b61583de2b8bcf246555faf31d14b18",
+      "fullScriptHash": "7178113df24a3e1b2a95f19f182b61583de2b8bcf246555faf31d14b18",
+      "plutusVersion": 1
+    }
+  ]
+}

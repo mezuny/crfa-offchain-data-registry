@@ -1,0 +1,22 @@
+{
+  "id": "HjfXyPCN",
+  "projectName": "Fabul.art",
+  "link": "https://marketplace.fabul.art",
+  "twitter": "https://twitter.com/Fabul_Art",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "description": {
+    "short": "Luxury 3D NFTs marketplace. One of a kind."
+  },
+  "scripts": [
+    {
+      "id": "suCwMz0z",
+      "name": "Roleggs",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "afdc19a6caa1824900902675a8d843f094472e2fa6cc7c9f355da97a",
+      "fullScriptHash": "71afdc19a6caa1824900902675a8d843f094472e2fa6cc7c9f355da97a",
+      "plutusVersion": 2
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "iS9daTHG",
+  "projectName": "Summon Platform",
+  "link": "https://summonplatform.io",
+  "twitter": "https://twitter.com/SummonPlatform",
+  "category": "COMMUNITY",
+  "description": {
+    "short": "A comprehensive solution for intuitive DAO creation, on-blockchain voting, governance and treasury management, and access to decentralized finance"
+  },
+  "scripts": [
+    {
+      "id": "pU5UGL02",
+      "name": "Non-custodial token sale",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "a4e6d8637e16e8b40506e8cc0df2434b33d8ea253d9bf07b4a26ea61",
+      "fullScriptHash": "71a4e6d8637e16e8b40506e8cc0df2434b33d8ea253d9bf07b4a26ea61",
+      "plutusVersion": 1
+    }
+  ]
+}

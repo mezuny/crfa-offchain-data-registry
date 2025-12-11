@@ -1,0 +1,121 @@
+{
+  "id": "002i2HSB",
+  "projectName": "Splash",
+  "link": "https://www.splash.trade",
+  "twitter": "https://twitter.com/splashprotocol",
+  "category": "DEFI",
+  "subCategory": "AMM_DEX",
+  "description": {
+    "short": "Cardano DEX for efficient markets. Fast, flexible, and reliable."
+  },
+  "scripts": [
+    {
+      "id": "6eoLtTXE",
+      "name": "Order Contract",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "dbe7a3d8a1d82990992a38eea1a2efaa68e931e252fc92ca1383809b",
+      "fullScriptHash": "71dbe7a3d8a1d82990992a38eea1a2efaa68e931e252fc92ca1383809b",
+      "plutusVersion": 2
+    },
+    {
+      "id": "A2G3zkxa",
+      "name": "Order Contract",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "2025463437ee5d64e89814a66ce7f98cb184a66ae85a2fbbfd750106",
+      "fullScriptHash": "712025463437ee5d64e89814a66ce7f98cb184a66ae85a2fbbfd750106",
+      "plutusVersion": 2
+    },
+    {
+      "id": "LwzgIvyf",
+      "name": "Order Contract",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "464eeee89f05aff787d40045af2a40a83fd96c513197d32fbc54ff02",
+      "fullScriptHash": "71464eeee89f05aff787d40045af2a40a83fd96c513197d32fbc54ff02",
+      "plutusVersion": 2
+    },
+    {
+      "id": "lzcrQaJo",
+      "name": "Deposit (Weighted Pool)",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "99b82cb994dc2af44c12cb5daf5ad274211622800467af5bd8c32352",
+      "fullScriptHash": "7199b82cb994dc2af44c12cb5daf5ad274211622800467af5bd8c32352",
+      "plutusVersion": 2
+    },
+    {
+      "id": "ve5URg3H",
+      "name": "Redeem (Weighted Pool)",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "b8a2bba77a5b50ac297032a7b0261f375a269ee3623d65172b384ba7",
+      "fullScriptHash": "71b8a2bba77a5b50ac297032a7b0261f375a269ee3623d65172b384ba7",
+      "plutusVersion": 2
+    },
+    {
+      "id": "WUL76Hdm",
+      "name": "Deposit (Constant Function Pool)",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "680f52841c06f32cecdcdeff2c20ce6b70c2a5249b94d1a2b4eff294",
+      "fullScriptHash": "71680f52841c06f32cecdcdeff2c20ce6b70c2a5249b94d1a2b4eff294",
+      "plutusVersion": 2
+    },
+    {
+      "id": "gRn76uXV",
+      "name": "Redeem (Constant Function Pool)",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "87f504b07add9e1d74ae102f53ab7f9ff2456dee897a43d8e27b348b",
+      "fullScriptHash": "7187f504b07add9e1d74ae102f53ab7f9ff2456dee897a43d8e27b348b",
+      "plutusVersion": 2
+    },
+    {
+      "id": "HJG2y9yA",
+      "name": "Deposit (Stableswap Pool)",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "3771abe5d236a51ace13c738885e29845fd5ef9ee90ed0efb420d275",
+      "fullScriptHash": "713771abe5d236a51ace13c738885e29845fd5ef9ee90ed0efb420d275",
+      "plutusVersion": 2
+    },
+    {
+      "id": "OVAf1KSl",
+      "name": "Redeem (Stableswap Pool)",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "4e7acc95834f1b86c54e9b9e38f3c1f72f848a52eb994da50d5f825f",
+      "fullScriptHash": "714e7acc95834f1b86c54e9b9e38f3c1f72f848a52eb994da50d5f825f",
+      "plutusVersion": 2
+    },
+    {
+      "id": "Cw1qdrQL",
+      "name": "SplashCPPState",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "f002facfd69d51b63e7046c6d40349b0b17c8dd775ee415c66af3ccc",
+      "fullScriptHash": "71f002facfd69d51b63e7046c6d40349b0b17c8dd775ee415c66af3ccc",
+      "plutusVersion": 2
+    },
+    {
+      "id": "nJ7yzIey",
+      "name": "SplashCPPState",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "9dee0659686c3ab807895c929e3284c11222affd710b09be690f924d",
+      "fullScriptHash": "719dee0659686c3ab807895c929e3284c11222affd710b09be690f924d",
+      "plutusVersion": 2
+    },
+    {
+      "id": "T6w075o3",
+      "name": "SplashSSPState",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "5d3df99fcfbbf282bd76a3d76a2e30bdd22e61c56f1462447938933b",
+      "fullScriptHash": "715d3df99fcfbbf282bd76a3d76a2e30bdd22e61c56f1462447938933b",
+      "plutusVersion": 2
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "0004lQfm",
+  "projectName": "Iagon",
+  "link": "https://iagon.com",
+  "twitter": "https://twitter.com/IagonOfficial",
+  "category": "MARKETPLACE",
+  "subCategory": "UNKNOWN",
+  "description": {
+    "short": "IAGON is bridging decentralization with compliance for Web 3.0"
+  },
+  "scripts": [
+    {
+      "id": "XvU1SsBM",
+      "name": "Staking",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "6caa3ba78ac89b51aad2d06ab8a5cd097334faba23127fc6f665e272",
+      "fullScriptHash": "716caa3ba78ac89b51aad2d06ab8a5cd097334faba23127fc6f665e272",
+      "plutusVersion": 2
+    },
+    {
+      "id": "9sqRSbjt",
+      "name": "Data Contract",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "1fa8c9199601924c312fb4f206ff632ca575b27f4f97dd02d9a9ae56",
+      "fullScriptHash": "711fa8c9199601924c312fb4f206ff632ca575b27f4f97dd02d9a9ae56",
+      "plutusVersion": 3
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "llE1kITu",
+  "projectName": "MuesliSwap",
+  "link": "https://muesliswap.com",
+  "twitter": "https://twitter.com/MuesliSwapTeam",
+  "category": "DEFI",
+  "subCategory": "HYBRID_DEX",
+  "description": {
+    "short": "The first decentralized exchange for Cardano and Milkomeda and the first Hybrid DEX on Cardano"
+  },
+  "scripts": [
+    {
+      "id": "B5UoA8IO",
+      "name": "Order Book",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "ea184d0a7e640c4b5daa3f2cef851e75477729c2fd89f6ffbed7874c",
+      "fullScriptHash": "71ea184d0a7e640c4b5daa3f2cef851e75477729c2fd89f6ffbed7874c",
+      "plutusVersion": 1
+    },
+    {
+      "id": "6mWYFayh",
+      "name": "Order Book",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "15b95fdaceeb507073a1bd198803373beeafbd82560fbf8abe9073ff",
+      "fullScriptHash": "7115b95fdaceeb507073a1bd198803373beeafbd82560fbf8abe9073ff",
+      "plutusVersion": 1
+    },
+    {
+      "id": "bZBy5am0",
+      "name": "Staking Order",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "785331daeba8b0f238183d502e14ace037d1167ececb99b744a2aaaf",
+      "fullScriptHash": "71785331daeba8b0f238183d502e14ace037d1167ececb99b744a2aaaf",
+      "plutusVersion": 1
+    },
+    {
+      "id": "8VDQhrRx",
+      "name": "Batch Order",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "1b3c5a646a018e0cfbd40fba97518c8e955e5869f0afd4f8c568493e",
+      "fullScriptHash": "711b3c5a646a018e0cfbd40fba97518c8e955e5869f0afd4f8c568493e",
+      "plutusVersion": 1
+    },
+    {
+      "id": "aC6SUV31",
+      "name": "Batch Order",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "73ede893f547edbd25da6953fda33caacd01f44047922bf7c5ceb951",
+      "fullScriptHash": "7173ede893f547edbd25da6953fda33caacd01f44047922bf7c5ceb951",
+      "plutusVersion": 2
+    },
+    {
+      "id": "ymecrrF8",
+      "name": "Farming",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "c2afd87ff836f64a20c33dc252e850cdd55f31627d64012d0960856f",
+      "fullScriptHash": "71c2afd87ff836f64a20c33dc252e850cdd55f31627d64012d0960856f",
+      "plutusVersion": 1
+    },
+    {
+      "id": "1LByfnTQ",
+      "name": "Yield",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "cae07bd684bcb2e2f15356882deac1b6cc782b025dc23aae10758471",
+      "fullScriptHash": "71cae07bd684bcb2e2f15356882deac1b6cc782b025dc23aae10758471",
+      "plutusVersion": 1
+    },
+    {
+      "id": "Gqxkyjmn",
+      "name": "Concentrated pool batcher",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "fc8fbdf64f25e04ec78052aa1a997b93867608951608fd74ca2fa83b",
+      "fullScriptHash": "71fc8fbdf64f25e04ec78052aa1a997b93867608951608fd74ca2fa83b",
+      "plutusVersion": 2
+    },
+    {
+      "id": "hti4A8I1",
+      "name": "Liquidity Pool Token",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "8c9a2d459d2d8dc7c11192f971ab647fac65833121b7e8181e583c64",
+      "fullScriptHash": "718c9a2d459d2d8dc7c11192f971ab647fac65833121b7e8181e583c64",
+      "plutusVersion": 1
+    },
+    {
+      "id": "siD7P7RF",
+      "name": "Liquidity Pool Token",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "af3d70acf4bd5b3abb319a7d75c89fb3e56eafcdd46b2e9b57a2557f",
+      "fullScriptHash": "71af3d70acf4bd5b3abb319a7d75c89fb3e56eafcdd46b2e9b57a2557f",
+      "plutusVersion": 2
+    },
+    {
+      "id": "HrisPalG",
+      "name": "Factory Policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "ffcdbb9155da0602280c04d8b36efde35e3416567f9241aff0955269",
+      "fullScriptHash": "71ffcdbb9155da0602280c04d8b36efde35e3416567f9241aff0955269",
+      "plutusVersion": 1
+    },
+    {
+      "id": "7V7hVedA",
+      "name": "Factory Policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "de9b756719341e79785aa13c164e7fe68c189ed04d61c9876b2fe53f",
+      "fullScriptHash": "71de9b756719341e79785aa13c164e7fe68c189ed04d61c9876b2fe53f",
+      "plutusVersion": 2
+    },
+    {
+      "id": "cFJYXKxi",
+      "name": "NFT Policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "7a8041a0693e6605d010d5185b034d55c79eaf7ef878aae3bdcdbf67",
+      "fullScriptHash": "717a8041a0693e6605d010d5185b034d55c79eaf7ef878aae3bdcdbf67",
+      "plutusVersion": 1
+    },
+    {
+      "id": "j8SdvSC3",
+      "name": "NFT Policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "909133088303c49f3a30f1cc8ed553a73857a29779f6c6561cd8093f",
+      "fullScriptHash": "71909133088303c49f3a30f1cc8ed553a73857a29779f6c6561cd8093f",
+      "plutusVersion": 2
+    },
+    {
+      "id": "YPml09P1",
+      "name": "Concentrated pool Liquidity Token",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "6e3af9667763e915c9b3a901d3092625d515c2ad6d575eac92582aa8",
+      "fullScriptHash": "716e3af9667763e915c9b3a901d3092625d515c2ad6d575eac92582aa8",
+      "plutusVersion": 2
+    },
+    {
+      "id": "DwPOW910",
+      "name": "Concentrated pool factory",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "f33bf12af1c23d660e29ebb0d3206b0bfc56ffd87ffafe2d36c42a45",
+      "fullScriptHash": "71f33bf12af1c23d660e29ebb0d3206b0bfc56ffd87ffafe2d36c42a45",
+      "plutusVersion": 2
+    },
+    {
+      "id": "1LnRfaR0",
+      "name": "Vault Order",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "0454355b392202e594ce74be2f5ff9ae64c6ac0fbb45cb676f8078a2",
+      "fullScriptHash": "710454355b392202e594ce74be2f5ff9ae64c6ac0fbb45cb676f8078a2",
+      "plutusVersion": 2
+    },
+    {
+      "id": "0Iz1gvx7",
+      "name": "MuesliSwapCPPState",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "00fb107bfbd51b3a5638867d3688e986ba38ff34fb738f5bd42b20d5",
+      "fullScriptHash": "7100fb107bfbd51b3a5638867d3688e986ba38ff34fb738f5bd42b20d5",
+      "plutusVersion": 2
+    },
+    {
+      "id": "Z3Gk2v32",
+      "name": "MuesliSwapCPPState",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "7045237d1eb0199c84dffe58fe6df7dc5d255eb4d418e4146d5721f8",
+      "fullScriptHash": "717045237d1eb0199c84dffe58fe6df7dc5d255eb4d418e4146d5721f8",
+      "plutusVersion": 2
+    },
+    {
+      "id": "Af3ivjUC",
+      "name": "MuesliSwapCPPState",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "e8baad9288dc9abdc099b46f2ac006b1a82c7df4996e067f00c04e8d",
+      "fullScriptHash": "71e8baad9288dc9abdc099b46f2ac006b1a82c7df4996e067f00c04e8d",
+      "plutusVersion": 1
+    },
+    {
+      "id": "6PqhgVoI",
+      "name": "MuesliSwapCPPState",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "db21c4e1c2cad0e5cc67adaf1b97ad0c195125b90508e0258964fc43",
+      "fullScriptHash": "71db21c4e1c2cad0e5cc67adaf1b97ad0c195125b90508e0258964fc43",
+      "plutusVersion": 1
+    }
+  ]
+}

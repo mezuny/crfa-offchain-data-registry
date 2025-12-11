@@ -1,0 +1,58 @@
+{
+  "id": "0mkrwtwa",
+  "projectName": "anetaBTC",
+  "link": "https://anetabtc.io",
+  "twitter": "https://twitter.com/anetaBTC",
+  "category": "DEFI",
+  "subCategory": "WRAPPED_ASSETS",
+  "description": {
+    "short": "A decentralized, secure protocol that allows users to unlock the value of their Bitcoin on Ergo and Cardano blockchains"
+  },
+  "scripts": [
+    {
+      "id": "z9qXstNg",
+      "name": "cNETA staking",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "c3e28f360738ea5b6d45451d10a80cf673da97e35ae07f962ee52c81",
+      "fullScriptHash": "71c3e28f360738ea5b6d45451d10a80cf673da97e35ae07f962ee52c81",
+      "plutusVersion": 1
+    },
+    {
+      "id": "Rd4N529d",
+      "name": "Guardian validator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "587f135fe465a024ba5b920343d6602825f4761b17a8d067724ef5e5",
+      "fullScriptHash": "71587f135fe465a024ba5b920343d6602825f4761b17a8d067724ef5e5",
+      "plutusVersion": 2
+    },
+    {
+      "id": "vks5vqDa",
+      "name": "Multisig validator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "b8fc731821e2dea9a197349399d7a012a227994ccf04c46e7db2f491",
+      "fullScriptHash": "71b8fc731821e2dea9a197349399d7a012a227994ccf04c46e7db2f491",
+      "plutusVersion": 2
+    },
+    {
+      "id": "KTBACRnn",
+      "name": "cBTC",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "4190b2941d9be04acc69c39739bd5acc66d60ccab480d8e20bc87e37",
+      "fullScriptHash": "714190b2941d9be04acc69c39739bd5acc66d60ccab480d8e20bc87e37",
+      "plutusVersion": 2
+    },
+    {
+      "id": "JAMkeamK",
+      "name": "MultiSigCert",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "3d63f52950245d5f4419f3da3e70009b6de3b01161fa74f846f82755",
+      "fullScriptHash": "713d63f52950245d5f4419f3da3e70009b6de3b01161fa74f846f82755",
+      "plutusVersion": 2
+    }
+  ]
+}

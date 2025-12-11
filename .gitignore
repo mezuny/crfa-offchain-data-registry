@@ -10,3 +10,5 @@
 /node_modules/jsonschema/lib/index.js
 /node_modules/jsonschema/lib/scan.js
 /node_modules/jsonschema/lib/validator.js
+.env
+/node_modules/

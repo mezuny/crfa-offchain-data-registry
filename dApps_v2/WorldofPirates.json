@@ -1,0 +1,22 @@
+{
+  "id": "oOAkFdIV",
+  "projectName": "World of Pirates",
+  "link": "https://www.worldofpirates.io",
+  "twitter": "https://twitter.com/worldofpirates_",
+  "category": "GAMING",
+  "subCategory": "NFT",
+  "description": {
+    "short": "A fast-paced turn-based strategy card game on the Cardano Blockchain"
+  },
+  "scripts": [
+    {
+      "id": "Cjg9d9eZ",
+      "name": "Jane Water Scout",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "ef5fa783b64fed07e18ae29a86d924d3f55a690997e49151bbd8e3fb",
+      "fullScriptHash": "71ef5fa783b64fed07e18ae29a86d924d3f55a690997e49151bbd8e3fb",
+      "plutusVersion": 1
+    }
+  ]
+}

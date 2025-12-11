@@ -1,0 +1,85 @@
+{
+  "id": "WqisAmZ1",
+  "projectName": "Project NEWM's Marketplace",
+  "link": "https://marketplace.newm.io/",
+  "twitter": "https://x.com/projectNEWM",
+  "category": "MARKETPLACE",
+  "subCategory": "ORDERBOOK_DEX",
+  "description": {
+    "short": "The NEWM Marketplace for streaming royalty rights tokens."
+  },
+  "scripts": [
+    {
+      "id": "6Vw7VGJG",
+      "name": "NEWM Monster Band Lock Up",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "db7245ff4fe23633e2c10ef62374ca6b64efd80d31fc3f7c431386e0",
+      "fullScriptHash": "31be670fd506fe343c238b8c3357511b863c8c2173f49a0b56aba1ab24db7245ff4fe23633e2c10ef62374ca6b64efd80d31fc3f7c431386e0",
+      "plutusVersion": 3
+    },
+    {
+      "id": "938itLRW",
+      "name": "Batcher Certificate",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "1cfcfe58e3462df9a3ab474a66536ef48f5acc2c1e7ad2abb294446a",
+      "fullScriptHash": "711cfcfe58e3462df9a3ab474a66536ef48f5acc2c1e7ad2abb294446a",
+      "plutusVersion": 3
+    },
+    {
+      "id": "C6AznaVa",
+      "name": "Marketplace Pointer",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "26c0f8e2d3be37de297fa57c48820fcb24c7b09aebe280430cef9d87",
+      "fullScriptHash": "7126c0f8e2d3be37de297fa57c48820fcb24c7b09aebe280430cef9d87",
+      "plutusVersion": 3
+    },
+    {
+      "id": "6Vw7VGJG",
+      "name": "Marketplace Queue",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "db7245ff4fe23633e2c10ef62374ca6b64efd80d31fc3f7c431386e0",
+      "fullScriptHash": "31fd4572b20a1d76e7dc0aaa548579bacc2b318a4862a7e12f94b7e76ddb7245ff4fe23633e2c10ef62374ca6b64efd80d31fc3f7c431386e0",
+      "plutusVersion": 3
+    },
+    {
+      "id": "cr8ulK4V",
+      "name": "Data Reference",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "7c7487bca5af9814f10b9e8239b9efa46f20f87edd075f78d62abbb7",
+      "fullScriptHash": "717c7487bca5af9814f10b9e8239b9efa46f20f87edd075f78d62abbb7",
+      "plutusVersion": 3
+    },
+    {
+      "id": "6Vw7VGJG",
+      "name": "Marketplace Sale",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "db7245ff4fe23633e2c10ef62374ca6b64efd80d31fc3f7c431386e0",
+      "fullScriptHash": "31bf5ba087d428e870a809c3e88fa8de019e01f5f31582c0e4abcb42bddb7245ff4fe23633e2c10ef62374ca6b64efd80d31fc3f7c431386e0",
+      "plutusVersion": 3
+    },
+    {
+      "id": "6Vw7VGJG",
+      "name": "Staking/DRep/Voting",
+      "purpose": "WITHDRAW/PUBLISH/VOTE",
+      "type": "PLUTUS",
+      "scriptHash": "db7245ff4fe23633e2c10ef62374ca6b64efd80d31fc3f7c431386e0",
+      "fullScriptHash": "71db7245ff4fe23633e2c10ef62374ca6b64efd80d31fc3f7c431386e0",
+      "plutusVersion": 3
+    },
+    {
+      "id": "6Vw7VGJG",
+      "name": "Marketplace Vault",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "db7245ff4fe23633e2c10ef62374ca6b64efd80d31fc3f7c431386e0",
+      "fullScriptHash": "31b8193d5acd8a0a6aa1f06ed1835648bc76e458c6c4621c543b769a3edb7245ff4fe23633e2c10ef62374ca6b64efd80d31fc3f7c431386e0",
+      "plutusVersion": 3
+    }
+  ]
+}

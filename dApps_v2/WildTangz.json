@@ -1,0 +1,22 @@
+{
+  "id": "e3TT5Sww",
+  "projectName": "Wild Tangz",
+  "link": "https://www.wildtangz.com",
+  "twitter": "https://twitter.com/WildTangz",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "description": {
+    "short": "A hand-drawn, unique, orangutan NFT collection that give hodlers additional services (minting, mobile app and more)"
+  },
+  "scripts": [
+    {
+      "id": "cq3e3u3z",
+      "name": "On-chain NFT collection voting machine",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "7c662e710adf2dd0343c53259977b8e573ab784c72bc4d98ea9d750a",
+      "fullScriptHash": "717c662e710adf2dd0343c53259977b8e573ab784c72bc4d98ea9d750a",
+      "plutusVersion": 2
+    }
+  ]
+}

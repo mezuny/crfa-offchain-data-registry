@@ -1,0 +1,22 @@
+{
+  "id": "bx1bDXZ9",
+  "projectName": "The Ape Society",
+  "link": "https://www.theapesociety.io",
+  "twitter": "https://twitter.com/the_ape_society",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "description": {
+    "short": "The Ape Society is a collection of 7,000 unique NFTs generated on the Cardano blockchain"
+  },
+  "scripts": [
+    {
+      "id": "RT52trmg",
+      "name": "Market",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "57faf8a0d82627a3efbe79a45fd5760efce5e57b1f4e8c3a65c566ca",
+      "fullScriptHash": "7157faf8a0d82627a3efbe79a45fd5760efce5e57b1f4e8c3a65c566ca",
+      "plutusVersion": 2
+    }
+  ]
+}

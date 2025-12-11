@@ -1,0 +1,48 @@
+{
+  "id": "NbqOITl0",
+  "projectName": "SingularityNET",
+  "link": "https://singularitynet.io",
+  "twitter": "https://twitter.com/singularity_net",
+  "category": "MARKETPLACE",
+  "description": {
+    "short": "SingularityNET is the world’s leading decentralised AI marketplace, running on the Cardano blockchain"
+  },
+  "scripts": [
+    {
+      "id": "EFeGj3Ti",
+      "name": "AGIX",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+      "fullScriptHash": "71f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+      "plutusVersion": 1
+    },
+    {
+      "id": "CItiaUCS",
+      "name": "NTX",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e99344479",
+      "fullScriptHash": "71edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e99344479",
+      "plutusVersion": 1
+    },
+    {
+      "id": "eD5uSMZJ",
+      "name": "AGIX staking",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "80cac682cc252515e96b3cd8e2c235f5a0b4c1e24b7345193269ae69",
+      "fullScriptHash": "7180cac682cc252515e96b3cd8e2c235f5a0b4c1e24b7345193269ae69",
+      "plutusVersion": 1
+    },
+    {
+      "id": "Me3U8K90",
+      "name": "AGIX staking",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "48886999b2be126f37f53443590a5107ad2455d58f5c7ef7b0af438c",
+      "fullScriptHash": "7148886999b2be126f37f53443590a5107ad2455d58f5c7ef7b0af438c",
+      "plutusVersion": 1
+    }
+  ]
+}

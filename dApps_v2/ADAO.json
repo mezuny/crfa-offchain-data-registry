@@ -1,0 +1,48 @@
+{
+  "id": "00008PIH",
+  "projectName": "ADAO",
+  "link": "https://www.theadao.io",
+  "twitter": "https://twitter.com/ADAOcommunity",
+  "category": "COMMUNITY",
+  "description": {
+    "short": "A DAO (decentralized autonomous organization) who is providing open source tools to support DAO infrastructure and promote decentralization on the Cardano blockchain"
+  },
+  "scripts": [
+    {
+      "id": "gOaDJq8s",
+      "name": "ADAO/ADA LP for $RAT",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "87ca979bdcae00f547fc47f96a165e2f51366b6a22bcb42afe4784ea",
+      "fullScriptHash": "7187ca979bdcae00f547fc47f96a165e2f51366b6a22bcb42afe4784ea",
+      "plutusVersion": 1
+    },
+    {
+      "id": "0O1uvvNX",
+      "name": "ADAO for Origin Aether",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "013dce23842f3b50750787d9dfbc05248970be1fd42d25df94dd1378",
+      "fullScriptHash": "71013dce23842f3b50750787d9dfbc05248970be1fd42d25df94dd1378",
+      "plutusVersion": 1
+    },
+    {
+      "id": "NkRpX46F",
+      "name": "ADAO/ADA LP for Origin Aether",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "4c10e4ebb35be0b31635d059c728be550b5c5fcf8a63801a08845ac2",
+      "fullScriptHash": "714c10e4ebb35be0b31635d059c728be550b5c5fcf8a63801a08845ac2",
+      "plutusVersion": 1
+    },
+    {
+      "id": "qQ0o5SrM",
+      "name": "Authority/Identity NFT",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "a7e4e32d1fd47cfc69f5d691a4f833cbb538419904b7ea3535d5ceb8",
+      "fullScriptHash": "71a7e4e32d1fd47cfc69f5d691a4f833cbb538419904b7ea3535d5ceb8",
+      "plutusVersion": 1
+    }
+  ]
+}

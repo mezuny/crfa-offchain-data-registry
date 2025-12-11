@@ -1,0 +1,21 @@
+{
+  "id": "01A3D67b",
+  "projectName": "Generic",
+  "link": "https://genericlink.com",
+  "category": "UNKNOWN",
+  "subCategory": "UNKNOWN",
+  "description": {
+    "short": "Smart contracts that are leveraged by multiple projects and shouldn't be credited to a specific one"
+  },
+  "scripts": [
+    {
+      "id": "PT6eZRS4",
+      "name": "Always Fails Validator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "51936f3c98a04b6609aa9b5c832ba1182cf43a58e534fcc05db09d69",
+      "fullScriptHash": "7151936f3c98a04b6609aa9b5c832ba1182cf43a58e534fcc05db09d69",
+      "plutusVersion": 2
+    }
+  ]
+}

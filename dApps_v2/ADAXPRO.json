@@ -1,0 +1,382 @@
+{
+  "id": "0Wa1h5BH",
+  "projectName": "ADAX PRO",
+  "link": "https://adax.pro",
+  "twitter": "https://twitter.com/adax_pro",
+  "category": "DEFI",
+  "subCategory": "AMM_DEX",
+  "description": {
+    "short": "Decentralized Exchange Protocol Built on the Cardano Network"
+  },
+  "scripts": [
+    {
+      "id": "gRIw6bqL",
+      "name": "unclassified1",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "87ee94d2e531d9c47ca90cbded7b4ba81e9edeb88ddc2ecb91223dad",
+      "fullScriptHash": "7187ee94d2e531d9c47ca90cbded7b4ba81e9edeb88ddc2ecb91223dad",
+      "plutusVersion": 1
+    },
+    {
+      "id": "YXCuuA54",
+      "name": "unclassified2",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "6e9d20c716e2be5ce65c86a6fb7dd46be22a555fb9907ab9f8c7f064",
+      "fullScriptHash": "716e9d20c716e2be5ce65c86a6fb7dd46be22a555fb9907ab9f8c7f064",
+      "plutusVersion": 1
+    },
+    {
+      "id": "5yyAjAxX",
+      "name": "unclassified3",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "132a06349fcbbf1e372a2d74fc1af230402ab808b7d8841462a33a60",
+      "fullScriptHash": "71132a06349fcbbf1e372a2d74fc1af230402ab808b7d8841462a33a60",
+      "plutusVersion": 1
+    },
+    {
+      "id": "wtTkbPGH",
+      "name": "unclassified4",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "bca23860dd2d846d226fdba1400332a16ddc955639e77086cb6f2c63",
+      "fullScriptHash": "71bca23860dd2d846d226fdba1400332a16ddc955639e77086cb6f2c63",
+      "plutusVersion": 1
+    },
+    {
+      "id": "kXv1olSp",
+      "name": "unclassified5",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "9515d092635784422a176ac46f4a1fe18a7048cce7b4742c43d48322",
+      "fullScriptHash": "719515d092635784422a176ac46f4a1fe18a7048cce7b4742c43d48322",
+      "plutusVersion": 1
+    },
+    {
+      "id": "1M8zgAGl",
+      "name": "unclassified6",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "caed1276e7b79d169f195d2725ba7a3e59deec410902d39efd917f76",
+      "fullScriptHash": "71caed1276e7b79d169f195d2725ba7a3e59deec410902d39efd917f76",
+      "plutusVersion": 1
+    },
+    {
+      "id": "EntsXdJA",
+      "name": "unclassified7",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "f5ff5c59def83ff336541bcee058b113cd5ecf3f1bc0f5754d1d717c",
+      "fullScriptHash": "71f5ff5c59def83ff336541bcee058b113cd5ecf3f1bc0f5754d1d717c",
+      "plutusVersion": 1
+    },
+    {
+      "id": "VY25LqTi",
+      "name": "unclassified8",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "650c391c1b6afc21725879ba3cde9dbecb5458bf86d263bf933bb61a",
+      "fullScriptHash": "71650c391c1b6afc21725879ba3cde9dbecb5458bf86d263bf933bb61a",
+      "plutusVersion": 1
+    },
+    {
+      "id": "XcfEvSOK",
+      "name": "unclassified9",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "6bb15a92fc4c3794626964ccee4dcadd36ae11bb05c4018ca9e016e6",
+      "fullScriptHash": "716bb15a92fc4c3794626964ccee4dcadd36ae11bb05c4018ca9e016e6",
+      "plutusVersion": 1
+    },
+    {
+      "id": "jKiHGcaD",
+      "name": "unclassified10",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "91333b76b4ed6b4d5608503dd15f6c8d8cf7e1208d93263442f540ed",
+      "fullScriptHash": "7191333b76b4ed6b4d5608503dd15f6c8d8cf7e1208d93263442f540ed",
+      "plutusVersion": 1
+    },
+    {
+      "id": "4nnY21kA",
+      "name": "unclassified11",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "0f625857ba623eee8a1a48dceb339c588f93509de30c857b72efdeb3",
+      "fullScriptHash": "710f625857ba623eee8a1a48dceb339c588f93509de30c857b72efdeb3",
+      "plutusVersion": 1
+    },
+    {
+      "id": "5eJLvvMk",
+      "name": "unclassified12",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "d8ad1683b20e390b34a3d313c8404bf125813dd162d9c5c31ec77bdc",
+      "fullScriptHash": "71d8ad1683b20e390b34a3d313c8404bf125813dd162d9c5c31ec77bdc",
+      "plutusVersion": 1
+    },
+    {
+      "id": "8mr92wnc",
+      "name": "unclassified13",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "1c25a58d96cc4c504ff6cd543be14bd0b6a2940efc86bc1f1503ff86",
+      "fullScriptHash": "711c25a58d96cc4c504ff6cd543be14bd0b6a2940efc86bc1f1503ff86",
+      "plutusVersion": 1
+    },
+    {
+      "id": "2gwGCwkR",
+      "name": "unclassified14",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "cf3404732207a1bc1c6ca8db57ea7aff2a7a750f4889e6592c1bd54a",
+      "fullScriptHash": "71cf3404732207a1bc1c6ca8db57ea7aff2a7a750f4889e6592c1bd54a",
+      "plutusVersion": 1
+    },
+    {
+      "id": "UU2IuLJP",
+      "name": "unclassified15",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "61a36e3af7a7bc4e04ff9f121a346f2dde173e69b0a73f8c14e1b202",
+      "fullScriptHash": "7161a36e3af7a7bc4e04ff9f121a346f2dde173e69b0a73f8c14e1b202",
+      "plutusVersion": 1
+    },
+    {
+      "id": "GcXVB6Ev",
+      "name": "unclassified16",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "353cba0d59adaa4a835c75fdeb0b864543ae27001a24e84df42b7c9b",
+      "fullScriptHash": "71353cba0d59adaa4a835c75fdeb0b864543ae27001a24e84df42b7c9b",
+      "plutusVersion": 1
+    },
+    {
+      "id": "fDMEXhcZ",
+      "name": "unclassified17",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "8402327b45db6a132392d02525057cf9c1fce61e64847911aa4514f8",
+      "fullScriptHash": "718402327b45db6a132392d02525057cf9c1fce61e64847911aa4514f8",
+      "plutusVersion": 1
+    },
+    {
+      "id": "7HwUAJSe",
+      "name": "unclassified18",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "dded24bbf64cfe83b9dfafe30e245f37d133276e825220427dac6856",
+      "fullScriptHash": "71dded24bbf64cfe83b9dfafe30e245f37d133276e825220427dac6856",
+      "plutusVersion": 1
+    },
+    {
+      "id": "fDMEXhcZ",
+      "name": "unclassified19",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "8402327b45db6a132392d02525057cf9c1fce61e64847911aa4514f8",
+      "fullScriptHash": "718402327b45db6a132392d02525057cf9c1fce61e64847911aa4514f8",
+      "plutusVersion": 1
+    },
+    {
+      "id": "FHAY2Vo4",
+      "name": "unclassified20",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "30ee2b56392cdde9103db12b368d1d801116129839d1a51cea661c54",
+      "fullScriptHash": "7130ee2b56392cdde9103db12b368d1d801116129839d1a51cea661c54",
+      "plutusVersion": 1
+    },
+    {
+      "id": "XXvOnfOK",
+      "name": "unclassified21",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "6b72ad2c8520f8c1a1b4be5bf362177b2e149b9a5a1b2c562139a429",
+      "fullScriptHash": "716b72ad2c8520f8c1a1b4be5bf362177b2e149b9a5a1b2c562139a429",
+      "plutusVersion": 1
+    },
+    {
+      "id": "9jWzOZNj",
+      "name": "unclassified22",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "e5c1e148fa1badc11ee3f45e8299a8fc7dcc5435ba69718340cc4e13",
+      "fullScriptHash": "71e5c1e148fa1badc11ee3f45e8299a8fc7dcc5435ba69718340cc4e13",
+      "plutusVersion": 1
+    },
+    {
+      "id": "YnApRzqe",
+      "name": "unclassified23",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "6f7047b02e0c811b82a5b391657418765d9f35b8a9de57c14e3a96d8",
+      "fullScriptHash": "716f7047b02e0c811b82a5b391657418765d9f35b8a9de57c14e3a96d8",
+      "plutusVersion": 1
+    },
+    {
+      "id": "5ES8Ly81",
+      "name": "unclassified24",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "d7571d806439455a75ba6481d3e9a981b4fd3c21f0666cc18c5cf239",
+      "fullScriptHash": "71d7571d806439455a75ba6481d3e9a981b4fd3c21f0666cc18c5cf239",
+      "plutusVersion": 1
+    },
+    {
+      "id": "IMGGwVKr",
+      "name": "unclassified25",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "3acd55773e397afd7ea1b79d1e8bb3444be8e8259e106df236eec6d4",
+      "fullScriptHash": "713acd55773e397afd7ea1b79d1e8bb3444be8e8259e106df236eec6d4",
+      "plutusVersion": 1
+    },
+    {
+      "id": "B0sA0zEq",
+      "name": "unclassified26",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "e9db286e44ec28fdbe57975abe802f64929d430dfd6b3e77a60ae773",
+      "fullScriptHash": "71e9db286e44ec28fdbe57975abe802f64929d430dfd6b3e77a60ae773",
+      "plutusVersion": 1
+    },
+    {
+      "id": "PZhirWTO",
+      "name": "unclassified27",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "51eab0c6fa9686a8e325719bebacc8c56931a7da85a6209a9fcb08d4",
+      "fullScriptHash": "7151eab0c6fa9686a8e325719bebacc8c56931a7da85a6209a9fcb08d4",
+      "plutusVersion": 1
+    },
+    {
+      "id": "FCFFDR6a",
+      "name": "unclassified28",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "f741506e5d2c80a3e0cc12abadeac1d7fd5e7648aa9ae48940605eb8",
+      "fullScriptHash": "71f741506e5d2c80a3e0cc12abadeac1d7fd5e7648aa9ae48940605eb8",
+      "plutusVersion": 1
+    },
+    {
+      "id": "PFml2K2y",
+      "name": "unclassified29",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "50e344904f2885cc530acee2832a1b52923d7b06196608b653f52b45",
+      "fullScriptHash": "7150e344904f2885cc530acee2832a1b52923d7b06196608b653f52b45",
+      "plutusVersion": 1
+    },
+    {
+      "id": "P4T9jDkl",
+      "name": "unclassified30",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "504d9d0f118fc525326581d17b70d659cadcebe35952695e14da2493",
+      "fullScriptHash": "71504d9d0f118fc525326581d17b70d659cadcebe35952695e14da2493",
+      "plutusVersion": 1
+    },
+    {
+      "id": "5BMouUkq",
+      "name": "unclassified31",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "d72e4eacbdb03819e8d6c1b8c501c83aa158e22e143675776b6f6127",
+      "fullScriptHash": "71d72e4eacbdb03819e8d6c1b8c501c83aa158e22e143675776b6f6127",
+      "plutusVersion": 1
+    },
+    {
+      "id": "AJqa0fkX",
+      "name": "unclassified32",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "210de2b12e692b42d09c12eb13e99c4545f6f019c11371c16753e33e",
+      "fullScriptHash": "71210de2b12e692b42d09c12eb13e99c4545f6f019c11371c16753e33e",
+      "plutusVersion": 1
+    },
+    {
+      "id": "wVqjo0q5",
+      "name": "batcher contract",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "bb69ba38801dec818fdc94d6e24c3f3866fee298a1bea57b56600e8a",
+      "fullScriptHash": "71bb69ba38801dec818fdc94d6e24c3f3866fee298a1bea57b56600e8a",
+      "plutusVersion": 1
+    },
+    {
+      "id": "uMTpvwIs",
+      "name": "pool contract",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "b485f07d29c2c9c2b2ccffb372c737edfa6f80db94e9850c26be8327",
+      "fullScriptHash": "71b485f07d29c2c9c2b2ccffb372c737edfa6f80db94e9850c26be8327",
+      "plutusVersion": 1
+    },
+    {
+      "id": "2PMrYbaq",
+      "name": "factory policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "07b7609e9f401a1bbd9da2d51d3e8abdc64117e2b29c1f588e561ffe",
+      "fullScriptHash": "7107b7609e9f401a1bbd9da2d51d3e8abdc64117e2b29c1f588e561ffe",
+      "plutusVersion": 1
+    },
+    {
+      "id": "qIp0xCrh",
+      "name": "lp policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "a785cc559079d6e87b1dcf64332cefd63994bd46173d90a93959d13a",
+      "fullScriptHash": "71a785cc559079d6e87b1dcf64332cefd63994bd46173d90a93959d13a",
+      "plutusVersion": 1
+    },
+    {
+      "id": "7IadIgot",
+      "name": "pool uniqueness NFT policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "ddf5b502c05b8a9efc43c57e6ee7188c5a4863f4d205ae28b1d04645",
+      "fullScriptHash": "71ddf5b502c05b8a9efc43c57e6ee7188c5a4863f4d205ae28b1d04645",
+      "plutusVersion": 1
+    },
+    {
+      "id": "r3M7X4oD",
+      "name": "coin policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "a9ed33c7ce212c20e348d90fdde46ce160950d15eae3f9d1e05c713f",
+      "fullScriptHash": "71a9ed33c7ce212c20e348d90fdde46ce160950d15eae3f9d1e05c713f",
+      "plutusVersion": 1
+    },
+    {
+      "id": "xn2Izsip",
+      "name": "time policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "bf80f4f3326b6ea3fbf624ff114d74bcfc587c2f8660da8a8811194e",
+      "fullScriptHash": "71bf80f4f3326b6ea3fbf624ff114d74bcfc587c2f8660da8a8811194e",
+      "plutusVersion": 1
+    },
+    {
+      "id": "DeksPCbd",
+      "name": "NFT policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "2bbe35bcc0a5d60cbd53c10edb6f30585d4fc92e08ca32096081d8cd",
+      "fullScriptHash": "712bbe35bcc0a5d60cbd53c10edb6f30585d4fc92e08ca32096081d8cd",
+      "plutusVersion": 1
+    },
+    {
+      "id": "5OSzVLdO",
+      "name": "farming contract",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "d7db8be47db66b1deb0094ca5e91205bca6079edb9a0c4bfd631e73d",
+      "fullScriptHash": "71d7db8be47db66b1deb0094ca5e91205bca6079edb9a0c4bfd631e73d",
+      "plutusVersion": 1
+    }
+  ]
+}

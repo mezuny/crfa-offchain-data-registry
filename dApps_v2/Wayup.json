@@ -1,0 +1,12 @@
+{
+  "id": "0005dkio",
+  "projectName": "Wayup",
+  "link": "https://www.wayup.io/",
+  "twitter": "https://x.com/wayupio",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "description": {
+    "short": "A NFT Marketplace by ADA Anvil"
+  },
+  "scripts": []
+}

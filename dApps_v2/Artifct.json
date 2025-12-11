@@ -1,0 +1,22 @@
+{
+  "id": "014ePApN",
+  "projectName": "Artifct",
+  "link": "https://artifct.app",
+  "twitter": "https://twitter.com/ArtifctApp",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "description": {
+    "short": "A feature rich marketplace for NFTs with seamless listings and auctions"
+  },
+  "scripts": [
+    {
+      "id": "9IjwwSLN",
+      "name": "Marketplace",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "1dcb4e80d7cd0ed384da5375661cb1e074e7feebd73eea236cd68192",
+      "fullScriptHash": "711dcb4e80d7cd0ed384da5375661cb1e074e7feebd73eea236cd68192",
+      "plutusVersion": 1
+    }
+  ]
+}

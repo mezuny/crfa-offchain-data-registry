@@ -1,0 +1,12 @@
+{
+  "id": "L9qefroJ",
+  "projectName": "TeddySwap",
+  "link": "https://www.teddyswap.io",
+  "twitter": "https://twitter.com/TeddySwap",
+  "category": "DEFI",
+  "subCategory": "AMM_DEX",
+  "description": {
+    "short": "A scalable decentralized exchange and automated liquidity provision protocol for Cardano Stablecoins and Derivatives."
+  },
+  "scripts": []
+}

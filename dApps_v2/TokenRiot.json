@@ -1,0 +1,48 @@
+{
+  "id": "IygVcRlL",
+  "projectName": "Token Riot",
+  "link": "https://tokenriot.io",
+  "twitter": "https://twitter.com/TokenRiot",
+  "category": "MARKETPLACE",
+  "description": {
+    "short": "The Token Riot Marketplace is a decentralized platform designed for the exchange of UTxOs (Unspent Transaction Outputs) between users."
+  },
+  "scripts": [
+    {
+      "id": "6mHREi2y",
+      "name": "Data Contract",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "15b6269723881b5ab53ffaccbd142dbec125cde76abf7fc0ba70f534",
+      "fullScriptHash": "7115b6269723881b5ab53ffaccbd142dbec125cde76abf7fc0ba70f534",
+      "plutusVersion": 2
+    },
+    {
+      "id": "QCG1e1TC",
+      "name": "Marketplace",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "53e88d1d58e65f18f8a6d5803643432f19b7235aeb1858f4e48eb3ab",
+      "fullScriptHash": "31387756888f0016dbcdf5a1d77816aca87e666002075cf2221a612cbf53e88d1d58e65f18f8a6d5803643432f19b7235aeb1858f4e48eb3ab",
+      "plutusVersion": 2
+    },
+    {
+      "id": "82XKzSpX",
+      "name": "Minter",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "e05558ba94a3cc7430fb003f5acc5e0892087fd99e585f49ab8b747d",
+      "fullScriptHash": "71e05558ba94a3cc7430fb003f5acc5e0892087fd99e585f49ab8b747d",
+      "plutusVersion": 2
+    },
+    {
+      "id": "CSuFbrDy",
+      "name": "CIP68",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "ee81d6c710fe8d98783c1c1e3b5a620d989b10a042feae06a552349b",
+      "fullScriptHash": "71ee81d6c710fe8d98783c1c1e3b5a620d989b10a042feae06a552349b",
+      "plutusVersion": 2
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "gsMFYM1Q",
+  "projectName": "Lobster Challenge",
+  "link": "https://github.com/input-output-hk/lobster-challenge",
+  "category": "COMMUNITY",
+  "description": {
+    "short": "Simple Plutus contract to help give Charles' stuffed lobster a name"
+  },
+  "scripts": [
+    {
+      "id": "BOs6Znk8",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "eb188aca85f89b55579d4de10a729700e7113b325389404ea7d5cfe6",
+      "fullScriptHash": "71eb188aca85f89b55579d4de10a729700e7113b325389404ea7d5cfe6",
+      "plutusVersion": 1
+    },
+    {
+      "id": "0hYBx27R",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "c8d43a8b772de55797acb1b9413fb646e915cc46679e5b94f79c5ed6",
+      "fullScriptHash": "71c8d43a8b772de55797acb1b9413fb646e915cc46679e5b94f79c5ed6",
+      "plutusVersion": 1
+    },
+    {
+      "id": "HBgB120E",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "fda1b6b487bee2e7f64ecf24d24b1224342484c0195ee1b7b943db50",
+      "fullScriptHash": "71fda1b6b487bee2e7f64ecf24d24b1224342484c0195ee1b7b943db50",
+      "plutusVersion": 1
+    }
+  ]
+}

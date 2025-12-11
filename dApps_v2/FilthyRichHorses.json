@@ -1,0 +1,22 @@
+{
+  "id": "VomSDVri",
+  "projectName": "Filthy Rich Horses",
+  "link": "https://www.filthyrichhorses.com",
+  "twitter": "https://twitter.com/FRHorses",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "description": {
+    "short": "An NFT collection and one of the first projects to implement a smart contract marketplace"
+  },
+  "scripts": [
+    {
+      "id": "YE53kBGb",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "6da02e1defd1a038d6ed36466a16cc19a14efa59025e4a156be6d020",
+      "fullScriptHash": "716da02e1defd1a038d6ed36466a16cc19a14efa59025e4a156be6d020",
+      "plutusVersion": 1
+    }
+  ]
+}

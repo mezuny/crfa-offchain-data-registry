@@ -1,0 +1,22 @@
+{
+  "id": "RkdJ4p5r",
+  "projectName": "old-tales",
+  "link": "https://www.old-tales.com",
+  "twitter": "https://twitter.com/oldtalesNFT",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "description": {
+    "short": "A complete 78 card Tarot deck, created over 18 months by a team of artists across the world"
+  },
+  "scripts": [
+    {
+      "id": "pXvml0C7",
+      "name": "Sale in Nano Frames at Rare Bloom",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "a519acd9ed172fa703762683e5c3ac3eefba255b411542aa19220038",
+      "fullScriptHash": "71a519acd9ed172fa703762683e5c3ac3eefba255b411542aa19220038",
+      "plutusVersion": 1
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "0XLAAr5q",
+  "projectName": "Astarter",
+  "link": "https://www.astarter.io",
+  "twitter": "https://twitter.com/AstarterDefiHub",
+  "category": "DEFI",
+  "subCategory": "AMM_DEX",
+  "description": {
+    "short": "Astarter is a key DeFi infrastructure hub on Cardano with four core applications: Launchpad(ISPO & IDO), DEX, Money Market & Tech Service Platform."
+  },
+  "scripts": [
+    {
+      "id": "leDjlPfY",
+      "name": "Batcher script",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "989d181d8cac02e26494d3e5d59aedb9ea0e71fc77fbe4bc686ad9bb",
+      "fullScriptHash": "71989d181d8cac02e26494d3e5d59aedb9ea0e71fc77fbe4bc686ad9bb",
+      "plutusVersion": 2
+    },
+    {
+      "id": "tzYMhBcF",
+      "name": "Pool script",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "b356bbef96f78bca6d7d4aba707efe2b2ddf12e98f75c4b1cb0d8941",
+      "fullScriptHash": "71b356bbef96f78bca6d7d4aba707efe2b2ddf12e98f75c4b1cb0d8941",
+      "plutusVersion": 2
+    },
+    {
+      "id": "1a6uSUP1",
+      "name": "Pool script",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "cba5c6770fe7b30ebc1fa32f01938c150513211360ded23ac76e36b3",
+      "fullScriptHash": "71cba5c6770fe7b30ebc1fa32f01938c150513211360ded23ac76e36b3",
+      "plutusVersion": 2
+    }
+  ]
+}

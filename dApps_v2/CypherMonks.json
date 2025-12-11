@@ -1,0 +1,20 @@
+{
+  "id": "30J2Mv6H",
+  "projectName": "CypherMonks",
+  "link": "https://cyphermonks.com",
+  "category": "COMMUNITY",
+  "description": {
+    "short": "A token of tribute and memorial"
+  },
+  "scripts": [
+    {
+      "id": "tFGJ2Pal",
+      "name": "A Token for St Jude",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "b0f28a2615abdba39fe4b3f59291766b6df8185c09bbacbd88a06170",
+      "fullScriptHash": "71b0f28a2615abdba39fe4b3f59291766b6df8185c09bbacbd88a06170",
+      "plutusVersion": 1
+    }
+  ]
+}

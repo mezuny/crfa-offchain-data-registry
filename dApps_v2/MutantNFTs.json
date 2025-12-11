@@ -1,0 +1,85 @@
+{
+  "id": "lsD8ETNS",
+  "projectName": "MutantNFTs",
+  "link": "https://labs.mutant-nft.com",
+  "twitter": "https://twitter.com/MutantNFTs",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "description": {
+    "short": "A platform with a variety of utilities for NFT projects offering: raffles, staking and whitelist management services for Cardano NFT projects"
+  },
+  "scripts": [
+    {
+      "id": "94rw1R6M",
+      "name": "Mutant staking",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "1d13dcbab76e93fb80cc022fc7d797826bf64ca24d3bf6f1885272de",
+      "fullScriptHash": "711d13dcbab76e93fb80cc022fc7d797826bf64ca24d3bf6f1885272de",
+      "plutusVersion": 1
+    },
+    {
+      "id": "8iWV785F",
+      "name": "Mutant token",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "1bec58093b1de0361affebe381fa3a6bcd93644aa47dafcd4eac88cb",
+      "fullScriptHash": "711bec58093b1de0361affebe381fa3a6bcd93644aa47dafcd4eac88cb",
+      "plutusVersion": 1
+    },
+    {
+      "id": "AuOAvnfd",
+      "name": "onchain raffle",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "22f12548a9b1e61fca4b5d9cb87f947f757d0b5e7fb2366fc32e40fe",
+      "fullScriptHash": "7122f12548a9b1e61fca4b5d9cb87f947f757d0b5e7fb2366fc32e40fe",
+      "plutusVersion": 1
+    },
+    {
+      "id": "DAQUjfgb",
+      "name": "onchain raffle",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "f0c16278fb2dceaa8c32b52f282d6f57ccb6068077a56c7a8f0707a7",
+      "fullScriptHash": "71f0c16278fb2dceaa8c32b52f282d6f57ccb6068077a56c7a8f0707a7",
+      "plutusVersion": 2
+    },
+    {
+      "id": "XpMViYUJ",
+      "name": "Mutant staking service",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "6c59481b23efbdc48b5ead4f31e5a9bc73609b220f25191634b94244",
+      "fullScriptHash": "716c59481b23efbdc48b5ead4f31e5a9bc73609b220f25191634b94244",
+      "plutusVersion": 1
+    },
+    {
+      "id": "RBiiKFKS",
+      "name": "Burned NFT validator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "571562b26410dfd95b8d6c64003784134b48cf17cf9910080386bf1c",
+      "fullScriptHash": "71571562b26410dfd95b8d6c64003784134b48cf17cf9910080386bf1c",
+      "plutusVersion": 2
+    },
+    {
+      "id": "39ZP9BfH",
+      "name": "New NFT metadata reference",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "0a1a65227bd351cf9e87f3dd9bcbc5e809a716d8e9edaa66af152933",
+      "fullScriptHash": "710a1a65227bd351cf9e87f3dd9bcbc5e809a716d8e9edaa66af152933",
+      "plutusVersion": 2
+    },
+    {
+      "id": "zcm9RMUe",
+      "name": "Marketplace",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "c561246fef7c35b6515d49dc4a0873cd32b42779aa7e621a8d03c3a9",
+      "fullScriptHash": "71c561246fef7c35b6515d49dc4a0873cd32b42779aa7e621a8d03c3a9",
+      "plutusVersion": 2
+    }
+  ]
+}

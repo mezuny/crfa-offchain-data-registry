@@ -1,0 +1,22 @@
+{
+  "id": "IZHnzIKN",
+  "projectName": "Intersect",
+  "link": "https://intersectmbo.org/",
+  "twitter": "https://x.com/IntersectMBO",
+  "category": "UNKNOWN",
+  "subCategory": "UNKNOWN",
+  "description": {
+    "short": "Smart contracts that are maintained by Intersect"
+  },
+  "scripts": [
+    {
+      "id": "fgUgui9K",
+      "name": "Intersect Treasury Smart Contract",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "8583857e4a12ffe1e6f641a1785a0f2f036c565cfbe6ff9db8e5a469",
+      "fullScriptHash": "118583857e4a12ffe1e6f641a1785a0f2f036c565cfbe6ff9db8e5a4698583857e4a12ffe1e6f641a1785a0f2f036c565cfbe6ff9db8e5a469",
+      "plutusVersion": 3
+    }
+  ]
+}

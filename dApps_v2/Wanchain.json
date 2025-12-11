@@ -1,0 +1,58 @@
+{
+  "id": "0hiE9WsH",
+  "projectName": "Wanchain",
+  "link": "https://www.wanchain.org",
+  "twitter": "https://twitter.com/wanchain_org",
+  "category": "DEFI",
+  "subCategory": "WRAPPED_ASSETS",
+  "description": {
+    "short": "Driving blockchain adoption through crosschain interoperability by building fully decentralised direct bridges that connect the world’s blockchain networks"
+  },
+  "scripts": [
+    {
+      "id": "BjxG5XaJ",
+      "name": "Cross chain bridge",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "259b187aa287258c0b95e636a472391282dedb2eb17b8bf321bb14f1",
+      "fullScriptHash": "31520b2576e83cfd074de6d0a300bfc4abc2c9eef6e02465eebc853f2d259b187aa287258c0b95e636a472391282dedb2eb17b8bf321bb14f1",
+      "plutusVersion": 2
+    },
+    {
+      "id": "BjxG5XaJ",
+      "name": "Cross chain bridge",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "259b187aa287258c0b95e636a472391282dedb2eb17b8bf321bb14f1",
+      "fullScriptHash": "311cfb41dc0b8d13fe53600e17059dcbcda2d8647347ec25288b4f5234259b187aa287258c0b95e636a472391282dedb2eb17b8bf321bb14f1",
+      "plutusVersion": 2
+    },
+    {
+      "id": "BjxG5XaJ",
+      "name": "Cross chain bridge",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "259b187aa287258c0b95e636a472391282dedb2eb17b8bf321bb14f1",
+      "fullScriptHash": "318d4c43c5a72fe731513ebecf5f44d717164d254e08eb4a57ee234bb7259b187aa287258c0b95e636a472391282dedb2eb17b8bf321bb14f1",
+      "plutusVersion": 2
+    },
+    {
+      "id": "BnBmidhY",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
+      "fullScriptHash": "7125c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
+      "plutusVersion": 2
+    },
+    {
+      "id": "UGAfXUcd",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "60ec1132e41b27b94a69b679a67041c8b6ea30643f0130cd4f08bd73",
+      "fullScriptHash": "7160ec1132e41b27b94a69b679a67041c8b6ea30643f0130cd4f08bd73",
+      "plutusVersion": 2
+    }
+  ]
+}

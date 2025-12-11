@@ -1,0 +1,40 @@
+{
+  "id": "QZXWcDC8",
+  "projectName": "jpg.store",
+  "link": "https://www.jpg.store",
+  "twitter": "https://twitter.com/jpgstoreNFT",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "description": {
+    "short": "A Cardano NFT marketplace that allows users to discover artwork, support creators and join communities on a decentralized blockchain"
+  },
+  "scripts": [
+    {
+      "id": "Boinnled",
+      "name": "BuySell",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "25da22dfd99bf874e59d74c304a1d28e921310327c3e4d6960123f2e",
+      "fullScriptHash": "7125da22dfd99bf874e59d74c304a1d28e921310327c3e4d6960123f2e",
+      "plutusVersion": 1
+    },
+    {
+      "id": "xXsZAWnt",
+      "name": "BuySell",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "beb881c47075b2910ae7e13fb268908f70878d06638ff86a5caaa16c",
+      "fullScriptHash": "71beb881c47075b2910ae7e13fb268908f70878d06638ff86a5caaa16c",
+      "plutusVersion": 1
+    },
+    {
+      "id": "NDFrMAfF",
+      "name": "BuySell",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "4a59ebd93ea53d1bbf7f82232c7b012700a0cf4bb78d879dabb1a20a",
+      "fullScriptHash": "714a59ebd93ea53d1bbf7f82232c7b012700a0cf4bb78d879dabb1a20a",
+      "plutusVersion": 1
+    }
+  ]
+}

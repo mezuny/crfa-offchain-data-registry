@@ -1,0 +1,40 @@
+{
+  "id": "FeaoGqg6",
+  "projectName": "Lending Pond",
+  "link": "https://lendingpond.app",
+  "twitter": "https://twitter.com/lendingpond_ada",
+  "category": "DEFI",
+  "subCategory": "LENDING_BORROWING",
+  "description": {
+    "short": "Provide or receive ADA through a smart contract driven P2P lending marketplace using Cardano NFTs as collateral"
+  },
+  "scripts": [
+    {
+      "id": "mlSazKvM",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "9c30c6f741ccd6b4dece11acfd505365abab14450ea2214435f8124e",
+      "fullScriptHash": "719c30c6f741ccd6b4dece11acfd505365abab14450ea2214435f8124e",
+      "plutusVersion": 1
+    },
+    {
+      "id": "XkDlJRCb",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "6c154a998931770ef5e0240d92528796d30c4191c93ee147e22ff89c",
+      "fullScriptHash": "716c154a998931770ef5e0240d92528796d30c4191c93ee147e22ff89c",
+      "plutusVersion": 2
+    },
+    {
+      "id": "1DTccNRz",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "ca7a72daa773f302c2024343400fa8041055d772b0b0501b00ff42f5",
+      "fullScriptHash": "71ca7a72daa773f302c2024343400fa8041055d772b0b0501b00ff42f5",
+      "plutusVersion": 2
+    }
+  ]
+}

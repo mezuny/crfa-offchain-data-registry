@@ -1,0 +1,48 @@
+{
+  "id": "0002QT4F",
+  "projectName": "$USDM",
+  "link": "https://www.mehen.io",
+  "twitter": "https://twitter.com/MehenOfficial",
+  "category": "STABLECOIN",
+  "description": {
+    "short": "Mehen is at the forefront of creating the USDM fiat-backed stablecoin, an essential tool for Cardano. USDM serves as a base asset for decentralized finance (DeFi) protocols and enables instant on-chain payments. Our vision is to be a scalable catalyst for the growth and adoption of the entire Cardano ecosystem."
+  },
+  "scripts": [
+    {
+      "id": "XTqRfDGo",
+      "name": "control validator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "6b3cb86f8aee9b5d754ba7aff3acea986297e833d52af0b00efe37c7",
+      "fullScriptHash": "716b3cb86f8aee9b5d754ba7aff3acea986297e833d52af0b00efe37c7",
+      "plutusVersion": 2
+    },
+    {
+      "id": "8u6tVe19",
+      "name": "token counter",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "e319d8e6629ff7991c8ae4f8aec2e0f10463ebdf29b57d26d34914f6",
+      "fullScriptHash": "71e319d8e6629ff7991c8ae4f8aec2e0f10463ebdf29b57d26d34914f6",
+      "plutusVersion": 2
+    },
+    {
+      "id": "zMiKxyUx",
+      "name": "usdm minting policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad",
+      "fullScriptHash": "71c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad",
+      "plutusVersion": 2
+    },
+    {
+      "id": "JV1hmVTZ",
+      "name": "count validator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "3e7530a023f5780a8fb800d23f9a338b76e5c4f2dd2edd19b29610fb",
+      "fullScriptHash": "713e7530a023f5780a8fb800d23f9a338b76e5c4f2dd2edd19b29610fb",
+      "plutusVersion": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XpnhAFgF",
+  "projectName": "Matrix Berry",
+  "link": "https://matrix.berrypool.io",
+  "twitter": "https://twitter.com/berry_ales",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "description": {
+    "short": "The first CIP-0068 compliant NFT collection on Cardano blockchain"
+  },
+  "scripts": [
+    {
+      "id": "pcuxT8AO",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "a55b9f78156c141b53e19f9f380988b722c36a2ce2b5bc06bae95503",
+      "fullScriptHash": "71a55b9f78156c141b53e19f9f380988b722c36a2ce2b5bc06bae95503",
+      "plutusVersion": 2
+    },
+    {
+      "id": "luRFVnCY",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "997392e0c6e62ebe8202be078bbe59a9254e7d209192ed99717ceaa9",
+      "fullScriptHash": "71997392e0c6e62ebe8202be078bbe59a9254e7d209192ed99717ceaa9",
+      "plutusVersion": 2
+    },
+    {
+      "id": "0Yzj9AfV",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "01cecfaeda9d846c08675902b55a6371f593d9239744867462c5382e",
+      "fullScriptHash": "7101cecfaeda9d846c08675902b55a6371f593d9239744867462c5382e",
+      "plutusVersion": 2
+    }
+  ]
+}

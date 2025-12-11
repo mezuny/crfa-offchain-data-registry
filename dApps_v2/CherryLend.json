@@ -1,0 +1,22 @@
+{
+  "id": "nSgtTluq",
+  "projectName": "CherryLend",
+  "link": "https://cherrylend.org",
+  "twitter": "https://twitter.com/Cherry_Lend",
+  "category": "DEFI",
+  "subCategory": "LENDING_BORROWING",
+  "description": {
+    "short": "CherryLend is an open-source, secure, and scalable lending and borrowing protocol on the Cardano blockchain."
+  },
+  "scripts": [
+    {
+      "id": "EP1VYrNJ",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "2e221993d37997f1023ad2b207bf75ef0e206de840224c63e94bacc9",
+      "fullScriptHash": "712e221993d37997f1023ad2b207bf75ef0e206de840224c63e94bacc9",
+      "plutusVersion": 2
+    }
+  ]
+}

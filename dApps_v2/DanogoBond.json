@@ -1,0 +1,31 @@
+{
+  "id": "bCYnP82P",
+  "projectName": "Danogo Bond",
+  "link": "https://bond.danogo.io",
+  "twitter": "https://twitter.com/danogo_2023",
+  "category": "DEFI",
+  "subCategory": "DEX",
+  "description": {
+    "short": "The first DEX trading Optim Bond tokens on Cardano"
+  },
+  "scripts": [
+    {
+      "id": "Q3AwrQe3",
+      "name": "Swap Validator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "537071da0b93b2c126ffeb754e9147f816d6da1ef13e72aba4d22523",
+      "fullScriptHash": "71537071da0b93b2c126ffeb754e9147f816d6da1ef13e72aba4d22523",
+      "plutusVersion": 2
+    },
+    {
+      "id": "0BKSKh1C",
+      "name": "Swap Validator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "c72a1aa3e4568cbe681734582d660383b2cabf3f27289643021e89c6",
+      "fullScriptHash": "71c72a1aa3e4568cbe681734582d660383b2cabf3f27289643021e89c6",
+      "plutusVersion": 2
+    }
+  ]
+}

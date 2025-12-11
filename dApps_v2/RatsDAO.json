@@ -1,0 +1,103 @@
+{
+  "id": "01KaY22m",
+  "projectName": "RatsDAO",
+  "link": "https://staking.ratsdao.io",
+  "twitter": "https://twitter.com/RatsDao",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "description": {
+    "short": "1st Multi-Sig Blue Chip NFT Purchasing DAO on Cardano blockchain"
+  },
+  "scripts": [
+    {
+      "id": "RN4JiYaK",
+      "name": "Staking",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "57ab777cbae4d1c778fa816979812dcdcb0e41d7ebab59b82009ff98",
+      "fullScriptHash": "7157ab777cbae4d1c778fa816979812dcdcb0e41d7ebab59b82009ff98",
+      "plutusVersion": 2
+    },
+    {
+      "id": "Z0S6Wp9d",
+      "name": "MAYZ Staking",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "701fe3479a815346d2ea74d9261ba8af815b895ecd1981780bb4362e",
+      "fullScriptHash": "71701fe3479a815346d2ea74d9261ba8af815b895ecd1981780bb4362e",
+      "plutusVersion": 2
+    },
+    {
+      "id": "o0Ivv0zI",
+      "name": "Falcon Staking",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "a029074c406018f4dbafd4acf781c6080123cad3aa7ad0791e6a5b34",
+      "fullScriptHash": "71a029074c406018f4dbafd4acf781c6080123cad3aa7ad0791e6a5b34",
+      "plutusVersion": 2
+    },
+    {
+      "id": "iB17tuF8",
+      "name": "Falcon/Aldea Staking",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "8d7f108ec8e2866797503d85e8f0833603c9bf1d44cb618dcb64549b",
+      "fullScriptHash": "718d7f108ec8e2866797503d85e8f0833603c9bf1d44cb618dcb64549b",
+      "plutusVersion": 2
+    },
+    {
+      "id": "EachNhGC",
+      "name": "Aldea Staking",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "2ebb8189add08bf542a147321d87d938e7df0b615a2c10fa125be185",
+      "fullScriptHash": "712ebb8189add08bf542a147321d87d938e7df0b615a2c10fa125be185",
+      "plutusVersion": 2
+    },
+    {
+      "id": "i9B2T5Ea",
+      "name": "RatsDAO Released",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "8d66bab70bb46f44d669e784757a637f820ca54e22b3fde46e920fbe",
+      "fullScriptHash": "718d66bab70bb46f44d669e784757a637f820ca54e22b3fde46e920fbe",
+      "plutusVersion": 2
+    },
+    {
+      "id": "3Qtlld67",
+      "name": "Aldea ITO",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "0aff8fa7fbaff38416d3388135ee20a184e7790d18387d8a27ea30b8",
+      "fullScriptHash": "710aff8fa7fbaff38416d3388135ee20a184e7790d18387d8a27ea30b8",
+      "plutusVersion": 2
+    },
+    {
+      "id": "qbF3VS3w",
+      "name": "RatsDAO Members",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "a879665fb2fcae0ad5c2c9416b305bb8c98abb568204d0c5a0f0ab41",
+      "fullScriptHash": "71a879665fb2fcae0ad5c2c9416b305bb8c98abb568204d0c5a0f0ab41",
+      "plutusVersion": 2
+    },
+    {
+      "id": "wRdlZgyp",
+      "name": "Onesies",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "bb320fac191b9efb7211400697b6bd0e097b1dde27f52b6aaba16999",
+      "fullScriptHash": "71bb320fac191b9efb7211400697b6bd0e097b1dde27f52b6aaba16999",
+      "plutusVersion": 2
+    },
+    {
+      "id": "BzI3q8st",
+      "name": "RatsDAO Gen and Gov",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "2665e7c7d77b3575cba67bd5d4c7ec324ebabd2fceb50f83658812c4",
+      "fullScriptHash": "712665e7c7d77b3575cba67bd5d4c7ec324ebabd2fceb50f83658812c4",
+      "plutusVersion": 2
+    }
+  ]
+}

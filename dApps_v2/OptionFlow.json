@@ -1,0 +1,22 @@
+{
+  "id": "zgE7qNb1",
+  "projectName": "OptionFlow",
+  "link": "https://app.optionflow.finance",
+  "twitter": "https://twitter.com/OptionFlowTeam",
+  "category": "DEFI",
+  "subCategory": "OPTION",
+  "description": {
+    "short": "The decentralized Option protocol on Cardano"
+  },
+  "scripts": [
+    {
+      "id": "NOqBmnX6",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "4af324c932f8e2d0feaf71bef7003ca562b030c0b1c8f0530415e6c4",
+      "fullScriptHash": "714af324c932f8e2d0feaf71bef7003ca562b030c0b1c8f0530415e6c4",
+      "plutusVersion": 2
+    }
+  ]
+}

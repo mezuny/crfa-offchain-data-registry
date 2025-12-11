@@ -1,0 +1,49 @@
+{
+  "id": "0004OiwZ",
+  "projectName": "Cerra",
+  "link": "https://cerra.io",
+  "twitter": "https://twitter.com/Cerra_io",
+  "category": "DEFI",
+  "subCategory": "LENDING_BORROWING",
+  "description": {
+    "short": "Decentralized Profit-Sharing Finance Hub on Cardano"
+  },
+  "scripts": [
+    {
+      "id": "zmuY9JUz",
+      "name": "Lending",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "c5e72e9fc8254c30a639fddaedcaa793a88b35beab80f1652e071f44",
+      "fullScriptHash": "71c5e72e9fc8254c30a639fddaedcaa793a88b35beab80f1652e071f44",
+      "plutusVersion": 2
+    },
+    {
+      "id": "d3coHVbw",
+      "name": "Borrower",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "7d199ae580c415d89825b1a12820235f90625ba843e99bfaebe9ec35",
+      "fullScriptHash": "717d199ae580c415d89825b1a12820235f90625ba843e99bfaebe9ec35",
+      "plutusVersion": 2
+    },
+    {
+      "id": "OqMHNONx",
+      "name": "Factory",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "4f92ffbe81c57ce2ae2c46c862b0dec78a885220bec8e6d4d5a541d2",
+      "fullScriptHash": "714f92ffbe81c57ce2ae2c46c862b0dec78a885220bec8e6d4d5a541d2",
+      "plutusVersion": 2
+    },
+    {
+      "id": "w5NDUYnU",
+      "name": "Lender",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "ba0b95b059c4ba8514db6bd24440eca4cc8330fd51356a27bcaeac2b",
+      "fullScriptHash": "71ba0b95b059c4ba8514db6bd24440eca4cc8330fd51356a27bcaeac2b",
+      "plutusVersion": 2
+    }
+  ]
+}

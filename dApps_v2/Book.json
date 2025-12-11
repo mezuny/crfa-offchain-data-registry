@@ -1,0 +1,31 @@
+{
+  "id": "015WLK7n",
+  "projectName": "Book.io",
+  "link": "https://book.io",
+  "twitter": "https://twitter.com/book_io",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "description": {
+    "short": "http://Book.io is a Web3 marketplace for buying, reading, and selling decentralized eBooks and Audiobooks."
+  },
+  "scripts": [
+    {
+      "id": "QQmisQPB",
+      "name": "Time-Lock validator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "54a8ac62c311ea39dfee423fc0a2761279f0ffa10aa596d6577ff548",
+      "fullScriptHash": "7154a8ac62c311ea39dfee423fc0a2761279f0ffa10aa596d6577ff548",
+      "plutusVersion": 2
+    },
+    {
+      "id": "NGUU4sxG",
+      "name": "Swap validator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "4a84b71b33b2aedf259e259b4d73526f80f212a50feaa2bbf26b8f58",
+      "fullScriptHash": "714a84b71b33b2aedf259e259b4d73526f80f212a50feaa2bbf26b8f58",
+      "plutusVersion": 2
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "ou2gHc24",
+  "projectName": "Fluid Tokens",
+  "link": "https://fluidtokens.com",
+  "twitter": "https://twitter.com/FluidTokens",
+  "category": "DEFI",
+  "subCategory": "LENDING_BORROWING",
+  "description": {
+    "short": "Lending and borrowing protocol using NFTs on Cardano's first NFT-DeFi bridge"
+  },
+  "scripts": [
+    {
+      "id": "fDIw9p9M",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "84017e78c2e887e8fac3fdf270110464aebd67f9cfc73453714b62f6",
+      "fullScriptHash": "7184017e78c2e887e8fac3fdf270110464aebd67f9cfc73453714b62f6",
+      "plutusVersion": 1
+    },
+    {
+      "id": "aW2qRggE",
+      "name": "loan requests",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "74f5a268f20a464b086baca44fd4ac4e2dc3c54914e4f1d9212c3f02",
+      "fullScriptHash": "7174f5a268f20a464b086baca44fd4ac4e2dc3c54914e4f1d9212c3f02",
+      "plutusVersion": 2
+    },
+    {
+      "id": "OIe0gZfd",
+      "name": "repayments",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "4dd522fb07d1f895ee63270b040e8b6434aa848a9c48ee16a7903aad",
+      "fullScriptHash": "714dd522fb07d1f895ee63270b040e8b6434aa848a9c48ee16a7903aad",
+      "plutusVersion": 2
+    },
+    {
+      "id": "sqjZTbwr",
+      "name": "active requests script",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "afae293f6a7de61f8b3faf28e4309ba8072da9d7acd1d293787cef0f",
+      "fullScriptHash": "71afae293f6a7de61f8b3faf28e4309ba8072da9d7acd1d293787cef0f",
+      "plutusVersion": 2
+    },
+    {
+      "id": "NOYmHqM5",
+      "name": "lender nft mint script",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "4aef6e0795e1f8241eb19ade6221a85d610523714e4d59d4e9095091",
+      "fullScriptHash": "714aef6e0795e1f8241eb19ade6221a85d610523714e4d59d4e9095091",
+      "plutusVersion": 2
+    },
+    {
+      "id": "KKpHWy6y",
+      "name": "borrower nft mint script",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "41223b3ecf502363dc465dce5ad6671b83ac790e229d3f49e68c3353",
+      "fullScriptHash": "7141223b3ecf502363dc465dce5ad6671b83ac790e229d3f49e68c3353",
+      "plutusVersion": 2
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ngSrtAq5",
+  "projectName": "Cicada NFT",
+  "link": "https://cicadanft.com",
+  "twitter": "https://twitter.com/cicadanft",
+  "category": "GAMING",
+  "subCategory": "NFT",
+  "description": {
+    "short": "Multiplayer Tactical RPG and Smart Contract NFT Store"
+  },
+  "scripts": [
+    {
+      "id": "aDSg0QBX",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "73ffdf5da99314270b834ad73137c80f4ce086bc2962ad50b6ecf27d",
+      "fullScriptHash": "7173ffdf5da99314270b834ad73137c80f4ce086bc2962ad50b6ecf27d",
+      "plutusVersion": 1
+    }
+  ]
+}

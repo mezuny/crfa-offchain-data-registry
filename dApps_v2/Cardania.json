@@ -1,0 +1,111 @@
+{
+  "id": "0Y1jCa7Z",
+  "projectName": "Cardania",
+  "link": "https://cardania.com",
+  "twitter": "https://twitter.com/cardania_HQ",
+  "category": "GAMING",
+  "description": {
+    "short": "Cardania is a multi-game ecosystem in development on Cardano blockchain"
+  },
+  "scripts": [
+    {
+      "id": "2MUGkNmO",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "0791485f4764194651dbbe75423117b77cd3bdf6aa64300a1881fb0e",
+      "fullScriptHash": "710791485f4764194651dbbe75423117b77cd3bdf6aa64300a1881fb0e",
+      "plutusVersion": 1
+    },
+    {
+      "id": "B2kLyKV7",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "e9f3f13b3d896b52462f7a65ee13626007148c1e0319f4adc59081b8",
+      "fullScriptHash": "71e9f3f13b3d896b52462f7a65ee13626007148c1e0319f4adc59081b8",
+      "plutusVersion": 1
+    },
+    {
+      "id": "2BmB2rNM",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "cd97e58d1cdc1515dae994dd60e62220450f85a141e67366c000891c",
+      "fullScriptHash": "71cd97e58d1cdc1515dae994dd60e62220450f85a141e67366c000891c",
+      "plutusVersion": 1
+    },
+    {
+      "id": "PYsn7zOr",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "51dfd3a3c71127cb1cea8225f701caae12489d343fbc89a388a21a9b",
+      "fullScriptHash": "7151dfd3a3c71127cb1cea8225f701caae12489d343fbc89a388a21a9b",
+      "plutusVersion": 1
+    },
+    {
+      "id": "G64BEiGx",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "fa238b80d50b9a92484ef5c4e5ecde892810bb2d107fcd8dd68f5fbc",
+      "fullScriptHash": "71fa238b80d50b9a92484ef5c4e5ecde892810bb2d107fcd8dd68f5fbc",
+      "plutusVersion": 1
+    },
+    {
+      "id": "3ctNAN2s",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "0b9e2caefe4e0cf4eabb1753ea6c35e1005f5f581f133d4fe349dd88",
+      "fullScriptHash": "710b9e2caefe4e0cf4eabb1753ea6c35e1005f5f581f133d4fe349dd88",
+      "plutusVersion": 1
+    },
+    {
+      "id": "oKu2X7V1",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "a13970b1c7b7caa76b3106f83f69d1f8aafc8e28518b4c1272e5415a",
+      "fullScriptHash": "71a13970b1c7b7caa76b3106f83f69d1f8aafc8e28518b4c1272e5415a",
+      "plutusVersion": 2
+    },
+    {
+      "id": "q2BGBUYm",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "a6a9b8976dac4b0aedd003e29c964c31741b0b29f0d97c0d5e0a5ea1",
+      "fullScriptHash": "71a6a9b8976dac4b0aedd003e29c964c31741b0b29f0d97c0d5e0a5ea1",
+      "plutusVersion": 2
+    },
+    {
+      "id": "cHZyrk5m",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "7a9e359fae1633451e3462c11e7e6ce8efed56813e802d7b0853b576",
+      "fullScriptHash": "717a9e359fae1633451e3462c11e7e6ce8efed56813e802d7b0853b576",
+      "plutusVersion": 2
+    },
+    {
+      "id": "3hj5bKkS",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "0bde1af1e5584af8cc3c85e8eb7b0edc63ba64ea2be3c278a77fe5f5",
+      "fullScriptHash": "710bde1af1e5584af8cc3c85e8eb7b0edc63ba64ea2be3c278a77fe5f5",
+      "plutusVersion": 2
+    },
+    {
+      "id": "shlyLK7L",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "af37a656d60f99157e5d50cc419a9ec6103121ac85a447672e2f66a5",
+      "fullScriptHash": "71af37a656d60f99157e5d50cc419a9ec6103121ac85a447672e2f66a5",
+      "plutusVersion": 2
+    }
+  ]
+}

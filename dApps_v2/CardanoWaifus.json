@@ -1,0 +1,22 @@
+{
+  "id": "IN75ojLf",
+  "projectName": "Cardano Waifus",
+  "link": "https://cardanowaifus.digital",
+  "twitter": "https://twitter.com/cardano_waifus",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "description": {
+    "short": "The first platform for Waifus NFT on Cardano Blockchain. Each Waifus is a one-only limited and personalized art piece."
+  },
+  "scripts": [
+    {
+      "id": "r9iEBDWD",
+      "name": "Staking - $ARIGATOken",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "aa41444f2ec9b828523a6bd6bde3c512a3feb32db1c04caf5d3c3814",
+      "fullScriptHash": "71aa41444f2ec9b828523a6bd6bde3c512a3feb32db1c04caf5d3c3814",
+      "plutusVersion": 2
+    }
+  ]
+}

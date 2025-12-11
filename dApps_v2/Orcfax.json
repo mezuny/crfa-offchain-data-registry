@@ -1,0 +1,58 @@
+{
+  "id": "002aOQJR",
+  "projectName": "Orcfax",
+  "link": "https://orcfax.io",
+  "twitter": "https://twitter.com/orcfax",
+  "category": "DEFI",
+  "subCategory": "ORACLE",
+  "description": {
+    "short": "Decentralized oracle feeds for Cardano smart contracts"
+  },
+  "scripts": [
+    {
+      "id": "5IWBkKXr",
+      "name": "Feed",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "d78ce124f4c3183782994a94f18701950e9d85f7bef303e7c77df459",
+      "fullScriptHash": "71d78ce124f4c3183782994a94f18701950e9d85f7bef303e7c77df459",
+      "plutusVersion": 2
+    },
+    {
+      "id": "CiMr8l31",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "28ba0bba6fc7bea013932f3014b000ec2844dfb4f7da3e8f463fbca8",
+      "fullScriptHash": "7128ba0bba6fc7bea013932f3014b000ec2844dfb4f7da3e8f463fbca8",
+      "plutusVersion": 2
+    },
+    {
+      "id": "DzDDMsAE",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "2cccc05192920ff1eb02bcfa7bb2a1fc5352ce58391d7ba3c66a555b",
+      "fullScriptHash": "712cccc05192920ff1eb02bcfa7bb2a1fc5352ce58391d7ba3c66a555b",
+      "plutusVersion": 2
+    },
+    {
+      "id": "fThS0i1p",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "84da51fd8041b6a1073f1154ddde0c846d71c4081fc1f7ba66e0e6b5",
+      "fullScriptHash": "7184da51fd8041b6a1073f1154ddde0c846d71c4081fc1f7ba66e0e6b5",
+      "plutusVersion": 2
+    },
+    {
+      "id": "9Wrw0ILg",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "e51a6cc459080aa690e32cccb20701dda601f604d5573dc8290c58a8",
+      "fullScriptHash": "71e51a6cc459080aa690e32cccb20701dda601f604d5573dc8290c58a8",
+      "plutusVersion": 2
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "6EJA2hry",
+  "projectName": "Plutus.Art",
+  "link": "https://www.plutus.art",
+  "twitter": "https://twitter.com/plutus_art",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "description": {
+    "short": "A highly-curated platform for creating, collecting and trading unique NFTs on Cardano blockchain."
+  },
+  "scripts": [
+    {
+      "id": "H7GI4Cx0",
+      "name": "TREASURYWITNESS",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "fd674aef17ba01a780ed9607a36af8f599c0ccd42ad19be4e95d8d92",
+      "fullScriptHash": "71fd674aef17ba01a780ed9607a36af8f599c0ccd42ad19be4e95d8d92",
+      "plutusVersion": 2
+    },
+    {
+      "id": "ADYfQd50",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "e74efba5a59213aa38fbbd7585e8fc69277f0081e750fc6ed4c33354",
+      "fullScriptHash": "71e74efba5a59213aa38fbbd7585e8fc69277f0081e750fc6ed4c33354",
+      "plutusVersion": 2
+    }
+  ]
+}

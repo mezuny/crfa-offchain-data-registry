@@ -1,0 +1,21 @@
+{
+  "id": "FDcr2vRx",
+  "projectName": "World Mobile Token",
+  "link": "https://worldmobiletoken.com",
+  "twitter": "https://twitter.com/wmtoken",
+  "category": "MOBILE_NETWORK",
+  "description": {
+    "short": "The world's first mobile network built on the blockchain"
+  },
+  "scripts": [
+    {
+      "id": "4kRWPdvS",
+      "name": "Ownership",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "d5ca3d5986de2db3de5bf106ea4340f4ee049410fc16b9b810499185",
+      "fullScriptHash": "71d5ca3d5986de2db3de5bf106ea4340f4ee049410fc16b9b810499185",
+      "plutusVersion": 1
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "016FzCMK",
+  "projectName": "Charli3",
+  "link": "https://charli3.io",
+  "twitter": "https://twitter.com/Oraclecharli3",
+  "category": "DEFI",
+  "subCategory": "ORACLE",
+  "description": {
+    "short": "Charli3 is a decentralized Oracle designed from the ground up for the Cardano network"
+  },
+  "scripts": [
+    {
+      "id": "8dot3niP",
+      "name": "C3 Tubural",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "e24268acb75d8613becf77027b810028d17c776fbdb8ec97b0a69b8e",
+      "fullScriptHash": "71e24268acb75d8613becf77027b810028d17c776fbdb8ec97b0a69b8e",
+      "plutusVersion": 1
+    },
+    {
+      "id": "ade19b0P",
+      "name": "Oracle",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "755a2328e135e2b584f47685e86cc54c4bc8269560f71a4b6ea0e637",
+      "fullScriptHash": "71755a2328e135e2b584f47685e86cc54c4bc8269560f71a4b6ea0e637",
+      "plutusVersion": 1
+    },
+    {
+      "id": "8GhUFjCj",
+      "name": "Oracle",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "1a7c64521bd1849e693730558db5bc3d9c514f96eceb004471b5fa49",
+      "fullScriptHash": "711a7c64521bd1849e693730558db5bc3d9c514f96eceb004471b5fa49",
+      "plutusVersion": 2
+    },
+    {
+      "id": "WchhV4Mw",
+      "name": "Oracle",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "687df05d58764c7d98c9602871e1276aa5f028b9695369f40f430865",
+      "fullScriptHash": "71687df05d58764c7d98c9602871e1276aa5f028b9695369f40f430865",
+      "plutusVersion": 2
+    },
+    {
+      "id": "see8HDbj",
+      "name": "Oracle",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "af0e4d91894fb19a2576cf5884926c435985a1d392bc00ab59e4665c",
+      "fullScriptHash": "71af0e4d91894fb19a2576cf5884926c435985a1d392bc00ab59e4665c",
+      "plutusVersion": 2
+    },
+    {
+      "id": "Svr6nbkw",
+      "name": "Oracle",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "5cab7558e66a4592f019e47447fee9445930486077574abed3429fb4",
+      "fullScriptHash": "715cab7558e66a4592f019e47447fee9445930486077574abed3429fb4",
+      "plutusVersion": 2
+    },
+    {
+      "id": "7cZnzEno",
+      "name": "Oracle",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "1869c28a5c1023a10c1deb30d112226cf45130b800a22d9c2afc1c9c",
+      "fullScriptHash": "711869c28a5c1023a10c1deb30d112226cf45130b800a22d9c2afc1c9c",
+      "plutusVersion": 2
+    },
+    {
+      "id": "9tefzFuR",
+      "name": "Oracle",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "e647c49dc3cf8479304775c8333d4545d52deebed2293409f822ce50",
+      "fullScriptHash": "71e647c49dc3cf8479304775c8333d4545d52deebed2293409f822ce50",
+      "plutusVersion": 2
+    },
+    {
+      "id": "41s644nk",
+      "name": "Oracle",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "0ce885f663dc693951104d0f5931b8d2c0e5ee656b2b39f9244d8192",
+      "fullScriptHash": "710ce885f663dc693951104d0f5931b8d2c0e5ee656b2b39f9244d8192",
+      "plutusVersion": 2
+    },
+    {
+      "id": "ZJtwF5MG",
+      "name": "Oracle",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "712118c809009b34b747d43c781b11751982bbfabfa8aca2107722b2",
+      "fullScriptHash": "71712118c809009b34b747d43c781b11751982bbfabfa8aca2107722b2",
+      "plutusVersion": 2
+    },
+    {
+      "id": "GvOVhrD1",
+      "name": "Oracle",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "363614aa3bd37dc0ec4b7b91c38fe15424a20f7a36d1044a4967aa5e",
+      "fullScriptHash": "71363614aa3bd37dc0ec4b7b91c38fe15424a20f7a36d1044a4967aa5e",
+      "plutusVersion": 2
+    },
+    {
+      "id": "TCrTDuNz",
+      "name": "Oracle",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "5d8c5b94b0f7b9ebd60d0fdaa50e61039ded490c2d7a7da1088d1607",
+      "fullScriptHash": "715d8c5b94b0f7b9ebd60d0fdaa50e61039ded490c2d7a7da1088d1607",
+      "plutusVersion": 2
+    },
+    {
+      "id": "BwjP0kvh",
+      "name": "Oracle",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "ecd8548af2a121a652727da169f86fd7b43b4b3b698b8895ba956c50",
+      "fullScriptHash": "71ecd8548af2a121a652727da169f86fd7b43b4b3b698b8895ba956c50",
+      "plutusVersion": 2
+    },
+    {
+      "id": "sEgQiUWG",
+      "name": "Oracle Feed",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "adb6f28429c860672e877f15f505a39899c1cdef9c68b2081a172736",
+      "fullScriptHash": "71adb6f28429c860672e877f15f505a39899c1cdef9c68b2081a172736",
+      "plutusVersion": 1
+    },
+    {
+      "id": "J3pEgVOl",
+      "name": "Oracle Feed",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "3d0d75aad1eb32f0ce78fb1ebc101b6b51de5d8f13c12daa88017624",
+      "fullScriptHash": "713d0d75aad1eb32f0ce78fb1ebc101b6b51de5d8f13c12daa88017624",
+      "plutusVersion": 2
+    },
+    {
+      "id": "FFTX2gKw",
+      "name": "Oracle Feed",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "30d7c4da385a1f5044261d27b6a22d46b645ca3567636df5edeb303d",
+      "fullScriptHash": "7130d7c4da385a1f5044261d27b6a22d46b645ca3567636df5edeb303d",
+      "plutusVersion": 2
+    }
+  ]
+}

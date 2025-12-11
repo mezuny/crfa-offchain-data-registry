@@ -1,0 +1,49 @@
+{
+  "id": "8rzaJSlS",
+  "projectName": "Horrocubes",
+  "link": "https://horrocubes.io",
+  "twitter": "https://twitter.com/horrocubes",
+  "category": "GAMING",
+  "subCategory": "NFT",
+  "description": {
+    "short": "Horrocubes are essentially puzzle boxes that live in the Cardano blockchain"
+  },
+  "scripts": [
+    {
+      "id": "Fx3euMWS",
+      "name": "Unknown",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "scriptHash": "331824937dd4425f5469058058729997f8feda0218542a7aef62143c",
+      "fullScriptHash": "71331824937dd4425f5469058058729997f8feda0218542a7aef62143c",
+      "plutusVersion": 1
+    },
+    {
+      "id": "6sjfzabN",
+      "name": "Unknown",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "160b85e53e25ef49272c421f04b702bc32184d102865fd1dc8815cde",
+      "fullScriptHash": "71160b85e53e25ef49272c421f04b702bc32184d102865fd1dc8815cde",
+      "plutusVersion": 1
+    },
+    {
+      "id": "2953ESkD",
+      "name": "KnightOfSwordsXmas",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "cd743f819701ba9123b4a17d587aaf1342d19fee896453c6ad9c3825",
+      "fullScriptHash": "71cd743f819701ba9123b4a17d587aaf1342d19fee896453c6ad9c3825",
+      "plutusVersion": 1
+    },
+    {
+      "id": "9I1AoDi5",
+      "name": "Insania",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "scriptHash": "e45605e3f7d131723422c67353a3d2e0cccc06192e2e92efab9c8deb",
+      "fullScriptHash": "71e45605e3f7d131723422c67353a3d2e0cccc06192e2e92efab9c8deb",
+      "plutusVersion": 1
+    }
+  ]
+}

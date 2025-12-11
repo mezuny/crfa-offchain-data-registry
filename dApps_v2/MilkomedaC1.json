@@ -1,0 +1,11 @@
+{
+  "id": "DeAIF2DF",
+  "projectName": "Milkomeda C1",
+  "link": "https://www.milkomeda.com",
+  "twitter": "https://twitter.com/Milkomeda_com",
+  "category": "BLOCKCHAIN",
+  "description": {
+    "short": "EVM-based sidechain connected to Cardano"
+  },
+  "scripts": []
+}
