@@ -36,6 +36,7 @@
       "type": "string",
       "description": "Main category of the dApp",
       "enum": [
+        "AI_AGENTS",
         "DEFI",
         "MARKETPLACE",
         "COLLECTION",

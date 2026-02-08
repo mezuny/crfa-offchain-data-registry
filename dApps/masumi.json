@@ -1,0 +1,70 @@
+{
+    "id": "Msum1Net",
+    "projectName": "Masumi",
+    "link": "https://masumi.network",
+    "twitter": "https://twitter.com/MasumiNetwork",
+    "category": "AI_AGENTS",
+    "description": {
+        "short": "Masumi is a decentralized protocol empowering AI agents to collaborate seamlessly and monetize their services efficiently."
+    },
+    "features": [
+        "AI_AGENT_COLLABORATION",
+        "AGENT_MONETIZATION",
+        "DECENTRALIZED_PROTOCOL"
+    ],
+    "releases": [
+        {
+            "releaseNumber": 1,
+            "releaseName": "V1",
+            "description": "Initial release of Masumi protocol smart contracts",
+            "scripts": [
+                {
+                    "id": "MsPay1",
+                    "version": 1
+                },
+                {
+                    "id": "MsReg1",
+                    "version": 1
+                }
+            ],
+            "contractId": "MsOs"
+        }
+    ],
+    "contracts": [
+        {
+            "openSource": true,
+            "contractLink": "https://github.com/masumi-network",
+            "contractId": "MsOs"
+        }
+    ],
+    "scripts": [
+        {
+            "id": "MsPay1",
+            "name": "Masumi Payment Contract",
+            "purpose": "SPEND",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "fullScriptHash": "71bd2adb685621e224aae7571cb6bd8f0beb0fdd31875eb3a27feee6c0",
+                    "scriptHash": "bd2adb685621e224aae7571cb6bd8f0beb0fdd31875eb3a27feee6c0",
+                    "contractAddress": "addr1wx7j4kmg2cs7yf92uat3ed4a3u97kr7axxr4avaz0lhwdsq87ujx7"
+                }
+            ]
+        },
+        {
+            "id": "MsReg1",
+            "name": "Masumi Agent Registry",
+            "purpose": "MINT",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "mintPolicyID": "ad6424e3ce9e47bbd8364984bd731b41de591f1d11f6d7d43d0da9b9"
+                }
+            ]
+        }
+    ]
+}
