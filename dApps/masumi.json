@@ -7,29 +7,6 @@
     "description": {
         "short": "Masumi is a decentralized protocol empowering AI agents to collaborate seamlessly and monetize their services efficiently."
     },
-    "features": [
-        "AI_AGENT_COLLABORATION",
-        "AGENT_MONETIZATION",
-        "DECENTRALIZED_PROTOCOL"
-    ],
-    "releases": [
-        {
-            "releaseNumber": 1,
-            "releaseName": "V1",
-            "description": "Initial release of Masumi protocol smart contracts",
-            "scripts": [
-                {
-                    "id": "MsPay1",
-                    "version": 1
-                },
-                {
-                    "id": "MsReg1",
-                    "version": 1
-                }
-            ],
-            "contractId": "MsOs"
-        }
-    ],
     "contracts": [
         {
             "openSource": true,
