@@ -16,6 +16,10 @@
                 {
                     "id": "g2xEBt",
                     "version": 1
+                },
+                {
+                    "id": "Kp7Qx2",
+                    "version": 1
                 }
             ],
             "contractId": "OdAP"
@@ -39,6 +43,10 @@
                 {
                     "id": "19D4DF",
                     "version": 2
+                },
+                {
+                    "id": "Zr4Lm9",
+                    "version": 1
                 }
             ],
             "contractId": "86BB"
@@ -52,6 +60,31 @@
         }
     ],
     "scripts": [
+        {
+            "id": "Kp7Qx2",
+            "name": "IAG Token",
+            "purpose": "MINT",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 1,
+                    "mintPolicyID": "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114"
+                }
+            ]
+        },
+        {
+            "id": "Zr4Lm9",
+            "name": "Staking Market Batcher Token",
+            "purpose": "MINT",
+            "type": "NATIVE",
+            "versions": [
+                {
+                    "version": 1,
+                    "mintPolicyID": "3ec3f628639c989da3302724c61c90ced45571d611563d98cd528616"
+                }
+            ]
+        },
         {
             "id": "g2xEBt",
             "name": "Staking",
