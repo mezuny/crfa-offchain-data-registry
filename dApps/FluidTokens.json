@@ -334,6 +334,149 @@
                     "version": 9
                 }
             ]
+        },
+        {
+            "releaseNumber": 4,
+            "releaseName": "V4",
+            "description": "Plutus V3 scripts (pool, loan, lender manager, pool manager, spend and withdraw)",
+            "scripts": [
+                {
+                    "id": "huG8GP",
+                    "version": 1
+                },
+                {
+                    "id": "38g4o5",
+                    "version": 1
+                },
+                {
+                    "id": "MNJAYK",
+                    "version": 1
+                },
+                {
+                    "id": "J1UXXF",
+                    "version": 1
+                },
+                {
+                    "id": "WXLCpa",
+                    "version": 1
+                },
+                {
+                    "id": "Nfhs0g",
+                    "version": 1
+                },
+                {
+                    "id": "Ca05RF",
+                    "version": 1
+                },
+                {
+                    "id": "Runzqw",
+                    "version": 1
+                },
+                {
+                    "id": "7wZyVG",
+                    "version": 1
+                },
+                {
+                    "id": "OeUvfJ",
+                    "version": 1
+                },
+                {
+                    "id": "IssDj4",
+                    "version": 1
+                },
+                {
+                    "id": "PTTKtb",
+                    "version": 1
+                },
+                {
+                    "id": "2TxxDB",
+                    "version": 1
+                },
+                {
+                    "id": "fz5LJF",
+                    "version": 1
+                },
+                {
+                    "id": "3hBGZW",
+                    "version": 1
+                },
+                {
+                    "id": "3M4Fz6",
+                    "version": 1
+                },
+                {
+                    "id": "Hq2AK7",
+                    "version": 1
+                },
+                {
+                    "id": "EGHZbK",
+                    "version": 1
+                },
+                {
+                    "id": "oXi0d9",
+                    "version": 1
+                },
+                {
+                    "id": "TH4QgT",
+                    "version": 1
+                },
+                {
+                    "id": "NBEjE4",
+                    "version": 1
+                },
+                {
+                    "id": "o24hOS",
+                    "version": 1
+                },
+                {
+                    "id": "DRET79",
+                    "version": 1
+                },
+                {
+                    "id": "IqJzQt",
+                    "version": 1
+                },
+                {
+                    "id": "JZPGSE",
+                    "version": 1
+                },
+                {
+                    "id": "Z4zBms",
+                    "version": 1
+                },
+                {
+                    "id": "1racjP",
+                    "version": 1
+                },
+                {
+                    "id": "4M9DZH",
+                    "version": 1
+                },
+                {
+                    "id": "7Fx6mq",
+                    "version": 1
+                },
+                {
+                    "id": "SFDGX0",
+                    "version": 1
+                },
+                {
+                    "id": "FZBJQ6",
+                    "version": 1
+                },
+                {
+                    "id": "c1suD6",
+                    "version": 1
+                },
+                {
+                    "id": "ad353a",
+                    "version": 1
+                },
+                {
+                    "id": "dc9003",
+                    "version": 1
+                }
+            ]
         }
     ],
     "contracts": [
@@ -952,6 +1095,466 @@
                     "fullScriptHash": "116ef4901a1def16b6293527187859273373813cf4fcd702cb4ba2858e1a40554f2c1d9e4fce6719a11bb7eda495b0c6e67a6e7a2006c2d54c",
                     "scriptHash": "6ef4901a1def16b6293527187859273373813cf4fcd702cb4ba2858e1a40554f2c1d9e4fce6719a11bb7eda495b0c6e67a6e7a2006c2d54c",
                     "contractAddress": "addr1z9h0fyq6rhh3dd3fx5n3s7zeyueh8qfu7n7dwqktfw3gtrs6gp257tqane8uuece5ydm0mdyjkcvden6deazqpkz64xqvu97ew"
+                }
+            ]
+        },
+        {
+            "id": "huG8GP",
+            "name": "Pool Spend",
+            "purpose": "SPEND",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "fullScriptHash": "71ecd0c0fc554beb43ade65d45dd471ede4d9cfc9b22bb70de8e113458",
+                    "scriptHash": "ecd0c0fc554beb43ade65d45dd471ede4d9cfc9b22bb70de8e113458",
+                    "contractAddress": "addr1w8kdps8u2497ksaduew5th28rm0ym88unv3tkux73cgngkqsmznay"
+                }
+            ]
+        },
+        {
+            "id": "38g4o5",
+            "name": "Loan Spend",
+            "purpose": "SPEND",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "fullScriptHash": "71b5763e3c9cb7f1a2167f74f76cb635d24d138a4cc5cf9d87659c662d",
+                    "scriptHash": "b5763e3c9cb7f1a2167f74f76cb635d24d138a4cc5cf9d87659c662d",
+                    "contractAddress": "addr1wx6hv03unjmlrgsk0a60wm9kxhfy6yu2fnzul8v8vkwxvtgweu8p0"
+                }
+            ]
+        },
+        {
+            "id": "MNJAYK",
+            "name": "Request Spend",
+            "purpose": "SPEND",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "fullScriptHash": "71390d27f97868840864922fb0b5657ae4982b5be8bf03bf9cec81125e",
+                    "scriptHash": "390d27f97868840864922fb0b5657ae4982b5be8bf03bf9cec81125e",
+                    "contractAddress": "addr1wyus6fle0p5ggzryjghmpdt90tjfs26mazls80uuajq3yhsf9t890"
+                }
+            ]
+        },
+        {
+            "id": "J1UXXF",
+            "name": "Lender Manager Spend",
+            "purpose": "SPEND",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "fullScriptHash": "716743f4b69446b4e066cfb89daa3d01ef041b6d2646968993be4cec09",
+                    "scriptHash": "6743f4b69446b4e066cfb89daa3d01ef041b6d2646968993be4cec09",
+                    "contractAddress": "addr1w9n58a9kj3rtfcrxe7ufm23aq8hsgxmdyerfdzvnhexwczgt6qcns"
+                }
+            ]
+        },
+        {
+            "id": "WXLCpa",
+            "name": "Pool Manager Spend",
+            "purpose": "SPEND",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "fullScriptHash": "71dfb1d21e529af28d82004eee5689e3304bb896c35ce8fe65c85612b0",
+                    "scriptHash": "dfb1d21e529af28d82004eee5689e3304bb896c35ce8fe65c85612b0",
+                    "contractAddress": "addr1w80mr5s722d09rvzqp8wu45fuvcyhwykcdww3ln9eptp9vqzzy6ex"
+                }
+            ]
+        },
+        {
+            "id": "Nfhs0g",
+            "name": "Asset Manager Spend",
+            "purpose": "SPEND",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "fullScriptHash": "71b256da41be022ba1a28fe92b32eeea00109310e3f0aea1cb7791d98f",
+                    "scriptHash": "b256da41be022ba1a28fe92b32eeea00109310e3f0aea1cb7791d98f",
+                    "contractAddress": "addr1wxe9dkjphcpzhgdz3l5jkvhwagqppycsu0c2agwtw7ganrcl5nug0"
+                }
+            ]
+        },
+        {
+            "id": "Ca05RF",
+            "name": "Locked Borrower Manager Spend",
+            "purpose": "SPEND",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "fullScriptHash": "71072eee302404c8d869bbc61a2c45502d371d96ec7d6aae7b179bfaa3",
+                    "scriptHash": "072eee302404c8d869bbc61a2c45502d371d96ec7d6aae7b179bfaa3",
+                    "contractAddress": "addr1wyrjam3syszv3krfh0rp5tz92qknw8vka37k4tnmz7dl4gc70h45u"
+                }
+            ]
+        },
+        {
+            "id": "Runzqw",
+            "name": "Loan Spend (legacy)",
+            "purpose": "SPEND",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "fullScriptHash": "715abbaa2eb177b574707fa3617e3436295d45d7795e0874623a9504da",
+                    "scriptHash": "5abbaa2eb177b574707fa3617e3436295d45d7795e0874623a9504da",
+                    "contractAddress": "addr1w9dth23wk9mm2ars073kzl35xc5463wh090qsarz822sfksqhf467"
+                }
+            ]
+        },
+        {
+            "id": "7wZyVG",
+            "name": "Repayment Spend (legacy)",
+            "purpose": "SPEND",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "fullScriptHash": "71e20678c018fe01a9b0d116a5a1bfa57e2efe8520645ca303d2c26a0e",
+                    "scriptHash": "e20678c018fe01a9b0d116a5a1bfa57e2efe8520645ca303d2c26a0e",
+                    "contractAddress": "addr1w83qv7xqrrlqr2ds6yt2tgdl54lzal59ypj9egcr6tpx5rs4nv60l"
+                }
+            ]
+        },
+        {
+            "id": "OeUvfJ",
+            "name": "Pool Borrow",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "b8f1870006e7372cc6eaa19e69b742d86c756dbf77e9be6264c000b3"
+                }
+            ]
+        },
+        {
+            "id": "IssDj4",
+            "name": "Pool Cancel",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "f7ed285d6a9b9772666c7f379ac3e70d777b9d651026385fd26c3e4d"
+                }
+            ]
+        },
+        {
+            "id": "PTTKtb",
+            "name": "Pool Edit",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "1ec1853344febb4f5de40fceca2316deb68baa3300161afed4ed6ae0"
+                }
+            ]
+        },
+        {
+            "id": "2TxxDB",
+            "name": "Pool Compound",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "fef12ea655d7d562bd419cad05723e201b1f292e6b6be5a874f073ba"
+                }
+            ]
+        },
+        {
+            "id": "fz5LJF",
+            "name": "Pool Sell Lender Position",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "f43354cb9a5fd138398869ca76cd9fefadfa87e60cb0f47081376a0f"
+                }
+            ]
+        },
+        {
+            "id": "3hBGZW",
+            "name": "Pool Manager",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "1e0bf58a4ef7f8f7579b58e290ea9f9283239bb4f7932fe8f29df03a"
+                }
+            ]
+        },
+        {
+            "id": "3M4Fz6",
+            "name": "Pool Manager Cancel",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "e39f6aac5e71c42edc7e190456483086dfdd94c73c0e352234cc3d1b"
+                }
+            ]
+        },
+        {
+            "id": "Hq2AK7",
+            "name": "Pool Manager Edit Pool",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "df8247f95cf81bf662c38a95f43851022a58f1f0fcbb7b453544afae"
+                }
+            ]
+        },
+        {
+            "id": "EGHZbK",
+            "name": "Pool Manager Compound",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "96f1e8891ea6c52ad5f90f7086d2ee84c568ab154e3d43c75eca2505"
+                }
+            ]
+        },
+        {
+            "id": "oXi0d9",
+            "name": "Pool Manager Update",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "f97528fe7e30bdccf85926fcda112bbefdce316125e2ccd086ce9802"
+                }
+            ]
+        },
+        {
+            "id": "TH4QgT",
+            "name": "Loan Claim",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "6a6f2aecc2ece13cc35df625c44b6865d07c82f0e07cd3410f4c2c86"
+                }
+            ]
+        },
+        {
+            "id": "NBEjE4",
+            "name": "Loan Recast",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "c0af09a3656074f444e1daec043896c235d18aba0567aba7afb55fe8"
+                }
+            ]
+        },
+        {
+            "id": "o24hOS",
+            "name": "Loan Repay",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "41ac9c9f0bd2acc2db8af9882b772daee90fcf1ad877f0451bd7af28"
+                }
+            ]
+        },
+        {
+            "id": "DRET79",
+            "name": "Loan Change Collateral",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "7aa6795463a8dcb3534246a6c3d6b1f29a72f920ae1dad6d0bacd43d"
+                }
+            ]
+        },
+        {
+            "id": "IqJzQt",
+            "name": "Lender Manager",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "247065fa7d0f8c5bce2bb379aa76d2cd79ad4e6a7ab207627039a804"
+                }
+            ]
+        },
+        {
+            "id": "JZPGSE",
+            "name": "Lender Manager Withdraw Bonds",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "1bcd2ac824b02aac21c4a018138aca4884c99fb3b9bca64d6240af2e"
+                }
+            ]
+        },
+        {
+            "id": "Z4zBms",
+            "name": "Lender Manager Liquidate",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "8f469373e2ccf7298d0b9b3b971a82ee6a89c2ceeaf9446090326c10"
+                }
+            ]
+        },
+        {
+            "id": "1racjP",
+            "name": "Lender Manager Compound",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "4713a925302692076b686eee3de80963c94e464108522afacf19039c"
+                }
+            ]
+        },
+        {
+            "id": "4M9DZH",
+            "name": "Lender Manager Liquidate And Pay In Advance",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "0e000364ffae7e6768f719248858cfd439541ae7eeb2e7f49b2aa380"
+                }
+            ]
+        },
+        {
+            "id": "7Fx6mq",
+            "name": "Lender Manager Liquidate Pay In Advance And Compound",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "00e38efa912fa4e6906c9e8550c34ef15aaf7074973c1445642a0be4"
+                }
+            ]
+        },
+        {
+            "id": "SFDGX0",
+            "name": "Lender Manager Liquidate And Convert",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "cbf3e8c5a42e6d0f505540d5aa2104b7e29a9c3a7ade581df74ba774"
+                }
+            ]
+        },
+        {
+            "id": "FZBJQ6",
+            "name": "Asset Manager",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "addd060da203f54e8ffc8a5d363094bc5e63d85734fe9d2869614d79"
+                }
+            ]
+        },
+        {
+            "id": "c1suD6",
+            "name": "Locked Borrower Manager",
+            "purpose": "WITHDRAW/PUBLISH/VOTE",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "9ca7053025f9a9b921b0eb23e1e49ea0a9153454efa64a49c2a1d39a"
+                }
+            ]
+        },
+        {
+            "id": "ad353a",
+            "name": "Pool (V3)",
+            "purpose": "SPEND",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "ad353a777c817f4d9d6c4324930f5c6128400517ec9dae0461e034cd"
+                }
+            ]
+        },
+        {
+            "id": "dc9003",
+            "name": "Request (V3)",
+            "purpose": "SPEND",
+            "type": "PLUTUS",
+            "versions": [
+                {
+                    "version": 1,
+                    "plutusVersion": 3,
+                    "scriptHash": "dc9003272dbd7fc5d19ce4f0eb3a92bec2c4ffcbd58c8ce4493888bc"
                 }
             ]
         }
